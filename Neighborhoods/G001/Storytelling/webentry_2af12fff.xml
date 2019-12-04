@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StoryCreator>
+  <ClientEnvironment>
+    <AppVersion>1.0.0.906</AppVersion>
+    <LanguageCode>en-us</LanguageCode>
+    <LanguageId>1</LanguageId>
+    <SKU>14726</SKU>
+    <GameVersion>2141707388.153.1</GameVersion>
+  </ClientEnvironment>
+  <ExchangeMetadata>
+    <Album>
+      <ID>0x2af12fff</ID>
+      <FamilyName><![CDATA[]]></FamilyName>
+      <FamilyId>1</FamilyId>
+      <LinkName></LinkName>
+      <NeighborhoodName><![CDATA[Pleasantview2]]></NeighborhoodName>
+      <LotID>0x0000000b</LotID>
+      <LotName><![CDATA[165 Sim Lane]]></LotName>
+      <Title><![CDATA[]]></Title>
+      <Style>Album</Style>
+      <Entry>
+        <Title><![CDATA[]]></Title>
+        <ThumbnailFilename>thumbnail_2af12fff_6db0f200.jpg</ThumbnailFilename>
+        <Snapshot>snapshot_2af12fff_6db0f200.jpg</Snapshot>
+        <Text><![CDATA[]]></Text>
+        <TextResourceId>0x00000000</TextResourceId>
+        <TimeStamp>7/28/2004 0:8:46</TimeStamp>
+      </Entry>
+      <Entry>
+        <Title><![CDATA[]]></Title>
+        <ThumbnailFilename>thumbnail_2af12fff_6db0f1fd.jpg</ThumbnailFilename>
+        <Snapshot>snapshot_2af12fff_6db0f1fd.jpg</Snapshot>
+        <Text><![CDATA[]]></Text>
+        <TextResourceId>0x00000000</TextResourceId>
+        <TimeStamp>7/28/2004 0:8:46</TimeStamp>
+      </Entry>
+      <Entry>
+        <Title><![CDATA[]]></Title>
+        <ThumbnailFilename>thumbnail_2af12fff_0db0f1ff.jpg</ThumbnailFilename>
+        <Snapshot>snapshot_2af12fff_0db0f1ff.jpg</Snapshot>
+        <Text><![CDATA[]]></Text>
+        <TextResourceId>0x00000000</TextResourceId>
+        <TimeStamp>7/28/2004 0:8:46</TimeStamp>
+      </Entry>
+      <Entry>
+        <Title><![CDATA[]]></Title>
+        <ThumbnailFilename>thumbnail_2af12fff_2db0f1fb.jpg</ThumbnailFilename>
+        <Snapshot>snapshot_2af12fff_2db0f1fb.jpg</Snapshot>
+        <Text><![CDATA[]]></Text>
+        <TextResourceId>0x00000000</TextResourceId>
+        <TimeStamp>7/28/2004 0:8:46</TimeStamp>
+      </Entry>
+      <Entry>
+        <Title><![CDATA[]]></Title>
+        <ThumbnailFilename>thumbnail_2af12fff_edb0f203.jpg</ThumbnailFilename>
+        <Snapshot>snapshot_2af12fff_edb0f203.jpg</Snapshot>
+        <Text><![CDATA[]]></Text>
+        <TextResourceId>0x00000000</TextResourceId>
+        <TimeStamp>7/28/2004 0:8:46</TimeStamp>
+      </Entry>
+      <KeywordList/>
+      <UploadDescription><![CDATA[]]></UploadDescription>
+    </Album>
+  </ExchangeMetadata>
+</StoryCreator>

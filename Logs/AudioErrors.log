@@ -1,0 +1,6 @@
+{1,05:15:02:594,00:00:01:746,11735,ERROR,TSAudio,Segment at %DataDirectory%Res\Sound\Locale\%Language%\Sfx\Samples\Karaoke\ has no extensions defined in section DBSegmentDirectoryFiles },
+{2,05:15:02:594,00:00:01:746,11735,ERROR,TSAudio,Segment at %DataDirectory%Res\Sound\Locale\%Language%\Sfx\Tracks\Karaoke\ has no extensions defined in section DBSegmentDirectoryFiles },
+{3,05:15:02:595,00:00:01:746,11735,ERROR,TSAudio,Segment at %DataDirectory%Res\Sound\Locale\%Language%\Sfx\Samples\DJBooth\ has no extensions defined in section DBSegmentDirectoryFiles },
+{4,05:15:02:595,00:00:01:746,11735,ERROR,TSAudio,Segment at %DataDirectory%Res\Sound\Locale\%Language%\Sfx\Tracks\DJBooth\ has no extensions defined in section DBSegmentDirectoryFiles },
+{17,05:15:19:238,00:00:04:087,14627,ERROR,TSAudio,Failed to cache resource. 0b9eb87e:0da1f2ca:ff99e0de },
+{18,05:15:19:443,00:00:04:120,14646,ERROR,TSAudio,Failed to cache resource. 0b9eb87e:eb8ab356:ff8bceb2 },

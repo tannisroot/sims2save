@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StoryCreator>
+  <ClientEnvironment>
+    <AppVersion>1.1.0.171</AppVersion>
+    <LanguageCode>en-us</LanguageCode>
+    <LanguageId>1</LanguageId>
+    <SKU>14726</SKU>
+    <GameVersion>2141707388.153.1,2141707388.182.1</GameVersion>
+  </ClientEnvironment>
+  <ExchangeMetadata>
+    <Album>
+      <ID>0x00000013</ID>
+      <FamilyName><![CDATA[]]></FamilyName>
+      <FamilyId>0</FamilyId>
+      <LinkName></LinkName>
+      <NeighborhoodName><![CDATA[Sim State University]]></NeighborhoodName>
+      <LotID>0x00000000</LotID>
+      <LotName><![CDATA[]]></LotName>
+      <Title><![CDATA[]]></Title>
+      <Style>Blog</Style>
+      <Entry>
+        <Title><![CDATA[]]></Title>
+        <ThumbnailFilename>thumbnail_00000013_aecf5f0d.jpg</ThumbnailFilename>
+        <Snapshot>snapshot_00000013_aecf5f0d.jpg</Snapshot>
+        <Text><![CDATA[]]></Text>
+        <TextResourceId>0x00cb0004</TextResourceId>
+        <TimeStamp>1/4/2005 18:32:8</TimeStamp>
+      </Entry>
+      <Entry>
+        <Title><![CDATA[]]></Title>
+        <ThumbnailFilename>thumbnail_00000013_cecf5f11.jpg</ThumbnailFilename>
+        <Snapshot>snapshot_00000013_cecf5f11.jpg</Snapshot>
+        <Text><![CDATA[]]></Text>
+        <TextResourceId>0x00cb0005</TextResourceId>
+        <TimeStamp>1/4/2005 18:32:8</TimeStamp>
+      </Entry>
+      <Entry>
+        <Title><![CDATA[]]></Title>
+        <ThumbnailFilename>thumbnail_00000013_0ecf5f17.jpg</ThumbnailFilename>
+        <Snapshot>snapshot_00000013_0ecf5f17.jpg</Snapshot>
+        <Text><![CDATA[]]></Text>
+        <TextResourceId>0x00cb0006</TextResourceId>
+        <TimeStamp>1/4/2005 18:32:8</TimeStamp>
+      </Entry>
+      <Entry>
+        <Title><![CDATA[]]></Title>
+        <ThumbnailFilename>thumbnail_00000013_8ecf5f1e.jpg</ThumbnailFilename>
+        <Snapshot>snapshot_00000013_8ecf5f1e.jpg</Snapshot>
+        <Text><![CDATA[]]></Text>
+        <TextResourceId>0x00cb0007</TextResourceId>
+        <TimeStamp>1/4/2005 18:32:8</TimeStamp>
+      </Entry>
+      <KeywordList/>
+      <UploadDescription><![CDATA[]]></UploadDescription>
+    </Album>
+  </ExchangeMetadata>
+</StoryCreator>

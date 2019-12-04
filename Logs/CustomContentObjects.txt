@@ -1,0 +1,131 @@
+Overrides Game Behavior
+--------------------------------------------------------------------------
+C:/users/alex/My Documents/EA Games/The Sims™ 2 Ultimate Collection/Downloads/Toddler Toy Death Fix.package
+Overrides Semi-Global
+
+C:/users/alex/My Documents/EA Games/The Sims™ 2 Ultimate Collection/Downloads/Photo Booth Try for Baby Fix.package
+Overrides Semi-Global
+
+C:/users/alex/My Documents/EA Games/The Sims™ 2 Ultimate Collection/Downloads/No Corruption Mods/Skunk Attraction Fix.package
+Overrides Global
+Overrides Game Behavior
+
+C:/users/alex/My Documents/EA Games/The Sims™ 2 Ultimate Collection/Downloads/No Corruption Mods/Pet Pregnancy Fix.package
+Overrides Game Behavior
+
+C:/users/alex/My Documents/EA Games/The Sims™ 2 Ultimate Collection/Downloads/No Corruption Mods/No Pet Code Spam.package
+Overrides Semi-Global
+
+C:/users/alex/My Documents/EA Games/The Sims™ 2 Ultimate Collection/Downloads/No Corruption Mods/MATY/woohooltwfix.package
+Overrides Global
+Overrides Game Behavior
+
+C:/users/alex/My Documents/EA Games/The Sims™ 2 Ultimate Collection/Downloads/No Corruption Mods/MATY/tombstonemovefix.package
+Overrides Semi-Global
+
+C:/users/alex/My Documents/EA Games/The Sims™ 2 Ultimate Collection/Downloads/No Corruption Mods/MATY/nounlinkondelete.package
+Overrides Semi-Global
+
+C:/users/alex/My Documents/EA Games/The Sims™ 2 Ultimate Collection/Downloads/No Corruption Mods/MATY/notownieregen.package
+Overrides Game Behavior
+
+C:/users/alex/My Documents/EA Games/The Sims™ 2 Ultimate Collection/Downloads/No Corruption Mods/MATY/nostrayrespawn.package
+Overrides Game Behavior
+Overrides Game Constants
+
+C:/users/alex/My Documents/EA Games/The Sims™ 2 Ultimate Collection/Downloads/No Corruption Mods/MATY/nossrespawn.package
+Overrides Game Behavior
+
+C:/users/alex/My Documents/EA Games/The Sims™ 2 Ultimate Collection/Downloads/No Corruption Mods/MATY/nodormieregen.package
+Overrides Game Behavior
+
+C:/users/alex/My Documents/EA Games/The Sims™ 2 Ultimate Collection/Downloads/No Corruption Mods/MATY/nocorruptdeath.package
+Overrides Game Behavior
+
+C:/users/alex/My Documents/EA Games/The Sims™ 2 Ultimate Collection/Downloads/No Corruption Mods/MATY/crumplefix.package
+Overrides Game Behavior
+
+C:/users/alex/My Documents/EA Games/The Sims™ 2 Ultimate Collection/Downloads/No Corruption Mods/MATY/creaturefixes.package
+Name: Dragon Scales
+Description: Freely given scales from an elder Dragon.
+Overrides Global
+Overrides Semi-Global
+
+C:/users/alex/My Documents/EA Games/The Sims™ 2 Ultimate Collection/Downloads/No Corruption Mods/MATY/antiredundancy.package
+Overrides Semi-Global
+
+C:/users/alex/My Documents/EA Games/The Sims™ 2 Ultimate Collection/Downloads/No Corruption Mods/MATY/alfixes.package
+Overrides Global
+Overrides Semi-Global
+
+C:/users/alex/My Documents/EA Games/The Sims™ 2 Ultimate Collection/Downloads/No Corruption Mods/CJ/CJ-ThereCanBeOnlyOneProfessor.package
+Overrides Semi-Global
+
+C:/users/alex/My Documents/EA Games/The Sims™ 2 Ultimate Collection/Downloads/No Corruption Mods/CJ/CJ-SmarterEPCheck.package
+Overrides Global
+Overrides Game Behavior
+
+C:/users/alex/My Documents/EA Games/The Sims™ 2 Ultimate Collection/Downloads/No Corruption Mods/CJ/CJ-NoAutoUrnCleanup.package
+Overrides Semi-Global
+
+C:/users/alex/My Documents/EA Games/The Sims™ 2 Ultimate Collection/Downloads/No Corruption Mods/CJ/CJ-MemoryFixes.package
+Overrides Semi-Global
+
+C:/users/alex/My Documents/EA Games/The Sims™ 2 Ultimate Collection/Downloads/No Corruption Mods/CJ/CJ-GhostHack-BugFixes.package
+Overrides Semi-Global
+
+C:/users/alex/My Documents/EA Games/The Sims™ 2 Ultimate Collection/Downloads/No Corruption Mods/Caged Pet Fixes.package
+Overrides Semi-Global
+
+C:/users/alex/My Documents/EA Games/The Sims™ 2 Ultimate Collection/Downloads/No Corruption Mods/BO/BO - No Trash Memories.package
+Overrides Semi-Global
+Overrides Game Constants
+
+C:/users/alex/My Documents/EA Games/The Sims™ 2 Ultimate Collection/Downloads/Gypsy - FT Genie Fix.package
+Overrides Game Behavior
+
+C:/users/alex/My Documents/EA Games/The Sims™ 2 Ultimate Collection/Downloads/Gameflow Fixes/zTwojeffs_Preg For All Genders.package
+Overrides Global
+Overrides Semi-Global
+
+C:/users/alex/My Documents/EA Games/The Sims™ 2 Ultimate Collection/Downloads/Gameflow Fixes/Same Sex Marriage.package
+Overrides Semi-Global
+
+C:/users/alex/My Documents/EA Games/The Sims™ 2 Ultimate Collection/Downloads/Gameflow Fixes/Havechildnotadopt.package
+Overrides Game Behavior
+
+C:/users/alex/My Documents/EA Games/The Sims™ 2 Ultimate Collection/Downloads/Gameflow Fixes/Baby Wants Fix.package
+Overrides Game Behavior
+
+C:/users/alex/My Documents/EA Games/The Sims™ 2 Ultimate Collection/Downloads/Engagement Memory Fix.package
+Overrides Game Behavior
+
+C:/users/alex/My Documents/EA Games/The Sims™ 2 Ultimate Collection/Downloads/Complain Social Fix.package
+Overrides Game Behavior
+
+C:/users/alex/My Documents/EA Games/The Sims™ 2 Ultimate Collection/Downloads/Bring Hobby Friend From Work Fix.package
+Overrides Semi-Global
+
+
+
+--------------------------------------------------------------------------
+C:/users/alex/My Documents/EA Games/The Sims™ 2 Ultimate Collection/Downloads/No Corruption Mods/MATY/stuckobjremover.package
+Name: Stuck Object Remover
+Description: Place on a tile containing stuck invisible objects.
+
+C:/users/alex/My Documents/EA Games/The Sims™ 2 Ultimate Collection/Downloads/No Corruption Mods/MATY/ffsdebugger.package
+Name: FFS Lot Debugger
+Description: This object attempts to fix common things that can go wrong on lots. Use with caution.
+Never forget the mythical Age When Everything Was On Fire.
+Buy this and bury it under your lot somewhere.
+
+C:/users/alex/My Documents/EA Games/The Sims™ 2 Ultimate Collection/Downloads/No Corruption Mods/BO/BO - No Sim Loaded.package
+Name: *
+Description: 
+
+C:/users/alex/My Documents/EA Games/The Sims™ 2 Ultimate Collection/Downloads/No Corruption Mods/Auto_SaveGame.package
+Name: *
+Description: 
+Name: Auto Save Game Manipulator
+Description: 
+

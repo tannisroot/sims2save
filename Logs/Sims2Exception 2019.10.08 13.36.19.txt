@@ -1,0 +1,135 @@
+Exception time: 10/08/2019, at 13:36:20.
+Exception code: 0xC0000005 (-1073741819) ACCESS_VIOLATION.
+Current thread ID: 129 (0x00000081).
+Version information:
+Application/module path: C:\Program Files (x86)\Origin Games\The Sims 2 Ultimate Collection\Fun with Pets\SP9\TSBin\Sims2EP9.exe
+Application/module version name: The Sims 2 EP9
+Application/module version: 1.17.0.66
+System version: Windows NT 5.2
+System memory: 4096 Megabytes total, 4096 Megabytes free.
+Application/module configuration: ReleaseSRT
+
+
+Extra Exception Data:
+
+Shutdown: 0
+HostName: shinji
+MemoryUsage: 880300K
+Neighborhood Name: Riverblossom Hills
+Neighborhood Prefix: G001
+Lot Name: 102 Firefly Pass
+Family Name: Rose
+Extra Exception Data End:
+
+Exception module:  .
+Exception address: 0xe67dbb02. Section:Offset: 0x00:0x00000000.
+
+Registers
+   EAX: 00000014
+   EBX: 00000000
+   ECX: 00000000
+   EDX: 00000001
+   ESI: 00000000
+   EDI: 00000000
+   CS:EIP: 0023:e67dbb02
+   SS:ESP: 002b:1087fcdc  EBP:00010000
+   DS:002b  ES:002b  FS:0063  GS:006b
+   Flags: 00010246
+
+Loaded Modules
+   Address          Size Module             Path
+   ----------------------------------------------------------------------------------------------
+   0x00400000   46208224 Sims2EP9.exe       C:\Program Files (x86)\Origin Games\The Sims 2 Ultimate Collection\Fun with Pets\SP9\TSBin\Sims2EP9.exe
+   0x7bc30000    1437696 ntdll.dll          C:\windows\system32\ntdll.dll
+   0x7b420000    4259840 kernel32.dll       C:\windows\system32\kernel32.dll
+   0x7ee50000     581632 kernelbase.dll     C:\windows\system32\kernelbase.dll
+   0x7eff0000      65536 wow64cpu.dll       C:\windows\system32\wow64cpu.dll
+   0x62440000    2727936 d3d9.dll           C:\windows\system32\d3d9.dll
+   0x7efe0000      49152 vulkan-1.dll       C:\windows\system32\vulkan-1.dll
+   0x7e910000     712704 msvcrt.dll         C:\windows\system32\msvcrt.dll
+   0x7e8b0000     225280 winevulkan.dll     C:\windows\system32\winevulkan.dll
+   0x7e690000    2129920 user32.dll         C:\windows\system32\user32.dll
+   0x7e520000    1302528 gdi32.dll          C:\windows\system32\gdi32.dll
+   0x7e490000     471040 advapi32.dll       C:\windows\system32\advapi32.dll
+   0x7e470000      61440 version.dll        C:\windows\system32\version.dll
+   0x7e450000      98304 IMM32.dll          C:\windows\system32\IMM32.dll
+   0x7e420000     143360 MSVFW32.dll        C:\windows\system32\MSVFW32.dll
+   0x7e360000     733184 winmm.dll          C:\windows\system32\winmm.dll
+   0x7e210000    1286144 comctl32.dll       C:\windows\system32\comctl32.dll
+   0x7e1b0000     245760 usp10.dll          C:\windows\system32\usp10.dll
+   0x7e160000     258048 AVIFIL32.dll       C:\windows\system32\AVIFIL32.dll
+   0x7e130000     114688 msacm32.dll        C:\windows\system32\msacm32.dll
+   0x7dfe0000    1298432 ole32.dll          C:\windows\system32\ole32.dll
+   0x7df30000     520192 rpcrt4.dll         C:\windows\system32\rpcrt4.dll
+   0x7d510000   10518528 SHELL32.dll        C:\windows\system32\SHELL32.dll
+   0x7d490000     339968 shlwapi.dll        C:\windows\system32\shlwapi.dll
+   0x7d460000     110592 shcore.dll         C:\windows\system32\shcore.dll
+   0x7d440000      86016 aclui.dll          C:\windows\system32\aclui.dll
+   0x7d330000    1085440 OLEAUT32.dll       C:\windows\system32\OLEAUT32.dll
+   0x7d2d0000     167936 WS2_32.dll         C:\windows\system32\WS2_32.dll
+   0x7d280000     249856 DSOUND.dll         C:\windows\system32\DSOUND.dll
+   0x7d180000     954368 ucrtbase.dll       C:\windows\system32\ucrtbase.dll
+   0x7d0b0000     647168 winex11.drv        C:\windows\system32\winex11.drv
+   0x7ce50000     458752 setupapi.dll       C:\windows\system32\setupapi.dll
+   0x7c620000     217088 uxtheme.dll        C:\windows\system32\uxtheme.dll
+   0xf79a0000     458752 DbgHelp.dll        C:\windows\system32\DbgHelp.dll
+   0xf7d40000      65536 psapi.dll          C:\windows\system32\psapi.dll
+   0xf7930000      73728 rasapi32.dll       C:\windows\system32\rasapi32.dll
+   0xf7910000      86016 mmdevapi.dll       C:\windows\system32\mmdevapi.dll
+   0xf78c0000     253952 winepulse.drv      C:\windows\system32\winepulse.drv
+   0xf78a0000     110592 dxdiagn.dll        C:\windows\system32\dxdiagn.dll
+   0xf7310000     454656 ddraw.dll          C:\windows\system32\ddraw.dll
+   0xe41a0000    1417216 wined3d.dll        C:\windows\system32\wined3d.dll
+   0x7a840000    1085440 opengl32.dll       C:\windows\system32\opengl32.dll
+   0xe52a0000     200704 wbemprox.dll       C:\windows\system32\wbemprox.dll
+   0xe5240000     311296 winspool.drv       C:\windows\system32\winspool.drv
+   0xe4140000     135168 iphlpapi.dll       C:\windows\system32\iphlpapi.dll
+   0xe4110000     143360 dxgi.dll           C:\windows\system32\dxgi.dll
+   0xe3b90000      98304 devenum.dll        C:\windows\system32\devenum.dll
+   0xe3b70000      61440 avicap32.dll       C:\windows\system32\avicap32.dll
+   0xe3b50000     102400 msdmo.dll          C:\windows\system32\msdmo.dll
+   0xe30f0000     827392 quartz.dll         C:\windows\system32\quartz.dll
+   0xe3b10000     237568 winealsa.drv       C:\windows\system32\winealsa.drv
+   0xe3670000      73728 msacm32.drv        C:\windows\system32\msacm32.drv
+   0xe3660000      36864 midimap.dll        C:\windows\system32\midimap.dll
+   0x60000000     360448 ijl15.dll          C:\Program Files (x86)\Origin Games\The Sims 2 Ultimate Collection\Fun with Pets\SP9\TSBin\ijl15.dll
+
+Call stack:
+(Debug information (.pdb files) appears to be absent).
+0x0000:0x00000000 .
+
+Stack data: (ESP is 0x1087fcdc)
+0x1087fb5c   00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 
+0x1087fb7c   a4663e00 00000000 47f60c00 00000000 00000000 00000000 00000000 00000000 
+0x1087fb9c   00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 
+0x1087fbbc   00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 
+0x1087fbdc   00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 
+0x1087fbfc   00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 
+0x1087fc1c   00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 
+0x1087fc3c   00000000 00000000 00000000 00000000 00000000 00000000 53585046 b4030000 
+0x1087fc5c   07000000 00000000 40030000 00000000 00000000 00000000 00000000 00000000 
+0x1087fc7c   00000000 00000000 050000c0 00000000 00000000 02bb7de6 02000000 00000000 
+0x1087fc9c   18000000 00000000 00000000 00000100 00000000 00000000 00000000 00000000 
+0x1087fcbc   00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 
+0x1087fcdc   00000000 00000000 b0fd8710 00000000 00000000 fc814ac3 00000000 00000100 
+0x1087fcfc   8fcf7de6 14000000 01000000 00000000 01000000 64814ac3 01000000 04030000 
+0x1087fd1c   40804ac3 fc814ac3 00000000 40804ac3 0e4987e6 44fd8710 bcfb14e0 30b359e3 
+0x1087fd3c   00010000 00172f08 f0162f08 e4162f08 7c804ac3 64814ac3 7c804ac3 ac814ac3 
+0x1087fd5c   9d0280e6 40804ac3 00000000 00000000 cf6e7fe6 28d749c9 00000000 00000000 
+0x1087fd7c   00000000 20980a09 00a20a09 d8fd8710 76478c7e 40804ac3 acfd8710 00000000 
+0x1087fd9c   00000000 00a20a09 c8a52100 00000000 2a000000 00000000 01000000 00000000 
+0x1087fdbc   00fdb3c8 00000000 00000000 f0fd8710 f0fd8710 a0162f08 08fe8710 88fe8710 
+0x1087fddc   63bb4962 00000000 00000000 88fe8710 63bb4962 20980a09 08fe8710 00000000 
+0x1087fdfc   00000000 b0d22300 6cfe8710 2a000000 00000000 01000000 00000000 88fe8710 
+0x1087fe1c   30ed1f08 b0d22300 40fe8710 88fe8710 30ed1f08 30ed1f08 b0d22300 6cfe8710 
+0x1087fe3c   861c4a62 b0d22300 00000000 00000000 00000000 00000000 01000000 b6040000 
+
+Instruction data: (EIP is 0xe67dbb02)
+0xe67dba82   24 24 89 44 24 08 8b 44 24 28 8b 54 24 08 01 d0 3b 41 04 77 c6 8b 6c 24 28 85 ed 0f 84 7e 00 00 
+0xe67dbaa2   00 8d 2c 3e 8b 7c 24 0c 8b 74 24 28 eb 0a 83 c5 04 31 ff 2b 34 24 74 67 b8 20 00 00 00 8b 55 00 
+0xe67dbac2   29 f8 39 c6 0f 46 c6 89 04 24 b8 ff ff ff ff 83 3c 24 20 74 0c 0f b6 0c 24 b8 01 00 00 00 d3 e0 
+0xe67dbae2   48 89 f9 d3 ea 85 d0 74 c5 8b 4c 24 0c 41 83 f9 20 0f 85 5e ff ff ff e9 56 ff ff ff 8b 44 24 24 
+0xe67dbb02   3b 70 04 0f 83 15 ff ff ff 8b 10 8b 44 24 28 d3 e0 85 04 9a 0f 84 46 ff ff ff e9 ff fe ff ff 8b 
+0xe67dbb22   74 24 08 83 c4 10 5b 89 f0 5e 5f 5d c3 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 90 83 ec 
+0xe67dbb42   5c 31 c9 89 74 24 50 8b 74 24 60 89 5c 24 4c 31 db 89 7c 24 54 31 ff 89 6c 24 58 85 f6 89 5c 24 
+0xe67dbb62   20 89 4c 24 24 0f 84 23 01 00 00 b8 ff ff ff ff f0 0f c1 06 48 0f 85 13 01 00 00 8b 46 08 65 8b 

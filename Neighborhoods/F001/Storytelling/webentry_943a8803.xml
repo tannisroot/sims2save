@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StoryCreator>
+  <ClientEnvironment>
+    <AppVersion>1.13.0.102</AppVersion>
+    <LanguageCode>en-us</LanguageCode>
+    <LanguageId>1</LanguageId>
+    <SKU>14726</SKU>
+    <GameVersion>2141707388.153.1,2141707388.1.14</GameVersion>
+  </ClientEnvironment>
+  <ExchangeMetadata>
+    <Album>
+      <ID>0x943a8803</ID>
+      <FamilyName><![CDATA[Joque]]></FamilyName>
+      <FamilyId>2</FamilyId>
+      <LinkName></LinkName>
+      <NeighborhoodName><![CDATA[Desiderata Valley]]></NeighborhoodName>
+      <LotID>0x0000002c</LotID>
+      <LotName><![CDATA[1055 East Leisure Lane]]></LotName>
+      <Title><![CDATA[]]></Title>
+      <Style>Album</Style>
+      <Entry>
+        <Title><![CDATA[]]></Title>
+        <ThumbnailFilename>thumbnail_943a8803_946d975a.jpg</ThumbnailFilename>
+        <Snapshot>snapshot_943a8803_946d975a.jpg</Snapshot>
+        <Text><![CDATA[]]></Text>
+        <TextResourceId>0x00000000</TextResourceId>
+        <TimeStamp>12/13/2007 1:48:24</TimeStamp>
+      </Entry>
+      <Entry>
+        <Title><![CDATA[]]></Title>
+        <ThumbnailFilename>thumbnail_943a8803_746d975b.jpg</ThumbnailFilename>
+        <Snapshot>snapshot_943a8803_746d975b.jpg</Snapshot>
+        <Text><![CDATA[]]></Text>
+        <TextResourceId>0x00000000</TextResourceId>
+        <TimeStamp>12/13/2007 1:48:23</TimeStamp>
+      </Entry>
+      <Entry>
+        <Title><![CDATA[]]></Title>
+        <ThumbnailFilename>thumbnail_943a8803_f46d975d.jpg</ThumbnailFilename>
+        <Snapshot>snapshot_943a8803_f46d975d.jpg</Snapshot>
+        <Text><![CDATA[]]></Text>
+        <TextResourceId>0x00000000</TextResourceId>
+        <TimeStamp>12/13/2007 1:48:22</TimeStamp>
+      </Entry>
+      <Entry>
+        <Title><![CDATA[]]></Title>
+        <ThumbnailFilename>thumbnail_943a8803_546d975e.jpg</ThumbnailFilename>
+        <Snapshot>snapshot_943a8803_546d975e.jpg</Snapshot>
+        <Text><![CDATA[]]></Text>
+        <TextResourceId>0x00000000</TextResourceId>
+        <TimeStamp>12/13/2007 1:48:21</TimeStamp>
+      </Entry>
+      <Entry>
+        <Title><![CDATA[]]></Title>
+        <ThumbnailFilename>thumbnail_943a8803_b46d9760.jpg</ThumbnailFilename>
+        <Snapshot>snapshot_943a8803_b46d9760.jpg</Snapshot>
+        <Text><![CDATA[]]></Text>
+        <TextResourceId>0x00000000</TextResourceId>
+        <TimeStamp>12/13/2007 1:48:19</TimeStamp>
+      </Entry>
+      <KeywordList/>
+      <UploadDescription><![CDATA[]]></UploadDescription>
+    </Album>
+  </ExchangeMetadata>
+</StoryCreator>

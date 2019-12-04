@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StoryCreator>
+  <ClientEnvironment>
+    <AppVersion>1.3.0.190</AppVersion>
+    <LanguageCode>en-us</LanguageCode>
+    <LanguageId>1</LanguageId>
+    <SKU>14726</SKU>
+    <GameVersion>2141707388.153.1,0.0.-1,0.0.-1,0.0.-1</GameVersion>
+  </ClientEnvironment>
+  <ExchangeMetadata>
+    <Album>
+      <ID>0x6aa73549</ID>
+      <FamilyName><![CDATA[]]></FamilyName>
+      <FamilyId>2</FamilyId>
+      <LinkName></LinkName>
+      <NeighborhoodName><![CDATA[Bluewater Village]]></NeighborhoodName>
+      <LotID>0x00000075</LotID>
+      <LotName><![CDATA[223 Idlewild Street]]></LotName>
+      <Title><![CDATA[]]></Title>
+      <Style>Album</Style>
+      <Entry>
+        <Title><![CDATA[]]></Title>
+        <ThumbnailFilename>thumbnail_6aa73549_90d001ff.jpg</ThumbnailFilename>
+        <Snapshot>snapshot_6aa73549_90d001ff.jpg</Snapshot>
+        <Text><![CDATA[]]></Text>
+        <TextResourceId>0x00000000</TextResourceId>
+        <TimeStamp>1/10/2006 4:47:41</TimeStamp>
+      </Entry>
+      <Entry>
+        <Title><![CDATA[]]></Title>
+        <ThumbnailFilename>thumbnail_6aa73549_f0d00203.jpg</ThumbnailFilename>
+        <Snapshot>snapshot_6aa73549_f0d00203.jpg</Snapshot>
+        <Text><![CDATA[]]></Text>
+        <TextResourceId>0x00000000</TextResourceId>
+        <TimeStamp>1/10/2006 4:47:41</TimeStamp>
+      </Entry>
+      <Entry>
+        <Title><![CDATA[]]></Title>
+        <ThumbnailFilename>thumbnail_6aa73549_50d00201.jpg</ThumbnailFilename>
+        <Snapshot>snapshot_6aa73549_50d00201.jpg</Snapshot>
+        <Text><![CDATA[]]></Text>
+        <TextResourceId>0x00000000</TextResourceId>
+        <TimeStamp>1/10/2006 4:47:41</TimeStamp>
+      </Entry>
+      <Entry>
+        <Title><![CDATA[]]></Title>
+        <ThumbnailFilename>thumbnail_6aa73549_70d001fe.jpg</ThumbnailFilename>
+        <Snapshot>snapshot_6aa73549_70d001fe.jpg</Snapshot>
+        <Text><![CDATA[]]></Text>
+        <TextResourceId>0x00000000</TextResourceId>
+        <TimeStamp>1/10/2006 4:47:41</TimeStamp>
+      </Entry>
+      <KeywordList/>
+      <UploadDescription><![CDATA[]]></UploadDescription>
+    </Album>
+  </ExchangeMetadata>
+</StoryCreator>

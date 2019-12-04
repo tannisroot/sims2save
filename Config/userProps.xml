@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cGZPropertySetString>
+  <AnyUint32 key="propertyRevision" type="0xeb61e4f7">6</AnyUint32>
+  <AnyBoolean key="allowCustomContent" type="0xcba908e1">true</AnyBoolean>
+  <AnyUint32 key="antialiasingQuality" type="0xeb61e4f7">4</AnyUint32>
+  <AnyBoolean key="autoCentering" type="0xcba908e1">true</AnyBoolean>
+  <AnyBoolean key="autoLogin" type="0xcba908e1">false</AnyBoolean>
+  <AnyBoolean key="checkForPatch" type="0xcba908e1">true</AnyBoolean>
+  <AnyBoolean key="disableCustomObjects" type="0xcba908e1">false</AnyBoolean>
+  <AnyBoolean key="displayCustomObjectInfo" type="0xcba908e1">false</AnyBoolean>
+  <AnyBoolean key="edgeScrolling" type="0xcba908e1">true</AnyBoolean>
+  <AnyFloat32 key="horzedgescrollrate" type="0xabc78708">0.5</AnyFloat32>
+  <AnyFloat32 key="vertedgescrollrate" type="0xabc78708">0.5</AnyFloat32>
+  <AnyString key="lastLoadedNeighborhood" type="0x0b8bea18">Pleasantview</AnyString>
+  <AnyBoolean key="interrupt" type="0xcba908e1">false</AnyBoolean>
+  <AnyBoolean key="livePIP" type="0xcba908e1">true</AnyBoolean>
+  <AnyBoolean key="lotInfoAdvancedMode" type="0xcba908e1">false</AnyBoolean>
+  <AnyBoolean key="quickTips" type="0xcba908e1">true</AnyBoolean>
+  <AnyBoolean key="rotateCameraSims1Mode" type="0xcba908e1">false</AnyBoolean>
+  <AnyBoolean key="simInBackground" type="0xcba908e1">false</AnyBoolean>
+  <AnyUint32 key="snapshotPictureQuality" type="0xeb61e4f7">2</AnyUint32>
+  <AnyUint32 key="snapshotPictureSize" type="0xeb61e4f7">2</AnyUint32>
+  <AnyBoolean key="usePixelAspectRatio" type="0xcba908e1">false</AnyBoolean>
+  <AnyUint32 key="videoCaptureMaxRecordingSeconds" type="0xeb61e4f7">60</AnyUint32>
+  <AnyUint32 key="videoCaptureQuality" type="0xeb61e4f7">1</AnyUint32>
+  <AnyUint32 key="videoCaptureSize" type="0xeb61e4f7">1</AnyUint32>
+  <AnyBoolean key="videoCaptureAudioOn" type="0xcba908e1">true</AnyBoolean>
+  <AnyBoolean key="CameraDriftCamEnabled" type="0xcba908e1">true</AnyBoolean>
+  <AnyBoolean key="CameraSpecialEventEnabled" type="0xcba908e1">true</AnyBoolean>
+  <AnyBoolean key="SoundMasterGroupVoxEnabled" type="0xcba908e1">true</AnyBoolean>
+  <AnyBoolean key="SoundMasterGroupFXEnabled" type="0xcba908e1">true</AnyBoolean>
+  <AnyBoolean key="SoundMasterGroupMusicEnabled" type="0xcba908e1">true</AnyBoolean>
+  <AnyBoolean key="SoundMasterGroupAmbienceEnabled" type="0xcba908e1">true</AnyBoolean>
+  <AnyUint32 key="FXVolume" type="0xeb61e4f7">100</AnyUint32>
+  <AnyUint32 key="VOXVolume" type="0xeb61e4f7">100</AnyUint32>
+  <AnyUint32 key="AmbienceVolume" type="0xeb61e4f7">100</AnyUint32>
+  <AnyUint32 key="MusicVolume" type="0xeb61e4f7">40</AnyUint32>
+  <AnyBoolean key="ShowTutorialWelcome" type="0xcba908e1">true</AnyBoolean>
+  <AnyStringSet key="visitedNeighborhoods" type="0xad9a861e">
+    <Element>G001_Downtown001</Element>
+    <Element>G001_Suburb007</Element>
+    <Element>G001_Neighborhood</Element>
+    <Element>N001_Neighborhood</Element>
+    <Element>G001_University001</Element>
+    <Element>E001_Neighborhood</Element>
+  </AnyStringSet>
+  <AnyStringSet key="visitedNeighborhoodsNoCollege" type="0xad9a861e"/>
+  <AnyStringSet key="visitedNeighborhoodsNoDowntown" type="0xad9a861e"/>
+  <AnyStringSet key="visitedNeighborhoodsNoNeighborhoodForEP1" type="0xad9a861e">
+    <Element>G001_Neighborhood</Element>
+    <Element>N001_Neighborhood</Element>
+    <Element>E001_Neighborhood</Element>
+  </AnyStringSet>
+  <AnyStringSet key="visitedNeighborhoodsNoNeighborhoodForEP2" type="0xad9a861e">
+    <Element>G001_Neighborhood</Element>
+    <Element>N001_Neighborhood</Element>
+    <Element>E001_Neighborhood</Element>
+  </AnyStringSet>
+  <AnyStringSet key="visitedNeighborhoodsNoNeighborhoodForEP3" type="0xad9a861e">
+    <Element>G001_Neighborhood</Element>
+    <Element>N001_Neighborhood</Element>
+    <Element>E001_Neighborhood</Element>
+  </AnyStringSet>
+  <AnyStringSet key="visitedNeighborhoodsNoNeighborhoodForEP4" type="0xad9a861e">
+    <Element>G001_Neighborhood</Element>
+    <Element>N001_Neighborhood</Element>
+    <Element>E001_Neighborhood</Element>
+  </AnyStringSet>
+  <AnyStringSet key="visitedNeighborhoodsNoNeighborhoodForEP5" type="0xad9a861e">
+    <Element>G001_Neighborhood</Element>
+    <Element>N001_Neighborhood</Element>
+    <Element>E001_Neighborhood</Element>
+  </AnyStringSet>
+  <AnyStringSet key="visitedNeighborhoodsNoNeighborhoodForEP6" type="0xad9a861e">
+    <Element>G001_Neighborhood</Element>
+    <Element>N001_Neighborhood</Element>
+    <Element>E001_Neighborhood</Element>
+  </AnyStringSet>
+  <AnyStringSet key="visitedNeighborhoodsNoNeighborhoodForEP7" type="0xad9a861e">
+    <Element>G001_Neighborhood</Element>
+    <Element>N001_Neighborhood</Element>
+    <Element>E001_Neighborhood</Element>
+  </AnyStringSet>
+  <AnyStringSet key="visitedNeighborhoodsNoNeighborhoodForEP8" type="0xad9a861e">
+    <Element>G001_Neighborhood</Element>
+    <Element>N001_Neighborhood</Element>
+    <Element>E001_Neighborhood</Element>
+  </AnyStringSet>
+  <AnyStringSet key="visitedNeighborhoodsNoNeighborhoodForEP9" type="0xad9a861e">
+    <Element>G001_Neighborhood</Element>
+    <Element>N001_Neighborhood</Element>
+    <Element>E001_Neighborhood</Element>
+  </AnyStringSet>
+  <AnyStringSet key="visitedNeighborhoodsNoNeighborhoodForEP10" type="0xad9a861e">
+    <Element>G001_Neighborhood</Element>
+    <Element>N001_Neighborhood</Element>
+    <Element>E001_Neighborhood</Element>
+  </AnyStringSet>
+  <AnyUint32 key="edithConfigFlags" type="0xeb61e4f7">1</AnyUint32>
+  <AnyUint32 key="copiedShippedDataToUserDataFolder" type="0xeb61e4f7">262143</AnyUint32>
+  <AnyUint32 key="neighborhoodPropFadeDistance" type="0xeb61e4f7">50</AnyUint32>
+  <AnyBoolean key="clickableLotImposters" type="0xcba908e1">true</AnyBoolean>
+  <AnyBoolean key="showXRayCursor" type="0xcba908e1">true</AnyBoolean>
+  <AnyString key="activeDeviceDisplayMode" type="0x0b8bea18">1920x1080x32x60</AnyString>
+  <AnyBoolean key="activeDeviceUseSoftwareRasterizer" type="0xcba908e1">false</AnyBoolean>
+  <AnyUint32 key="optionMaterialDetail" type="0xeb61e4f7">3</AnyUint32>
+  <AnyUint32 key="optionObjectDetail" type="0xeb61e4f7">3</AnyUint32>
+  <AnyUint32 key="optionObjectHiding" type="0xeb61e4f7">0</AnyUint32>
+  <AnyUint32 key="optionSnowOnGround" type="0xeb61e4f7">1</AnyUint32>
+  <AnyUint32 key="optionShadows" type="0xeb61e4f7">3</AnyUint32>
+  <AnyUint32 key="optionOpaqueUI" type="0xeb61e4f7">0</AnyUint32>
+  <AnyUint32 key="optionReflection" type="0xeb61e4f7">1</AnyUint32>
+  <AnyUint32 key="optionCeiling" type="0xeb61e4f7">1</AnyUint32>
+  <AnyUint32 key="optionEffectsQuality" type="0xeb61e4f7">3</AnyUint32>
+  <AnyUint32 key="optionLightingQuality" type="0xeb61e4f7">3</AnyUint32>
+  <AnyUint32 key="optionSoundQuality" type="0xeb61e4f7">3</AnyUint32>
+  <AnyUint32 key="optionEnableLotImpostersInLot" type="0xeb61e4f7">1</AnyUint32>
+  <AnyUint32 key="optionEnableNeighborhoodOccupantsInLot" type="0xeb61e4f7">1</AnyUint32>
+  <AnyUint32 key="optionLotSkirtSizeIncrease" type="0xeb61e4f7">1</AnyUint32>
+  <AnySint32 key="activeDeviceNum" type="0x0c264712">0</AnySint32>
+  <AnyBoolean key="copiedUSToUKEnglishNames" type="0xcba908e1">false</AnyBoolean>
+  <AnyString key="activeDeviceList" type="0x0b8bea18">1;0;GeForce 7800 GTX;10de;0091;65535;32767.65535.65535.65535, GUID: B2DA86A7-E117-C09F-D36D-F9052E8030FA;</AnyString>
+  <AnyString key="SoundOutputMode" type="0x0b8bea18">stereo</AnyString>
+</cGZPropertySetString>

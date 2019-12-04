@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StoryCreator>
+  <ClientEnvironment>
+    <AppVersion>1.0.0.906</AppVersion>
+    <LanguageCode>en-us</LanguageCode>
+    <LanguageId>1</LanguageId>
+    <SKU>14726</SKU>
+    <GameVersion>2141707388.153.1</GameVersion>
+  </ClientEnvironment>
+  <ExchangeMetadata>
+    <Album>
+      <ID>0x00000002</ID>
+      <FamilyName><![CDATA[]]></FamilyName>
+      <FamilyId>0</FamilyId>
+      <LinkName></LinkName>
+      <NeighborhoodName><![CDATA[Strangetown]]></NeighborhoodName>
+      <LotID>0x00000000</LotID>
+      <LotName><![CDATA[]]></LotName>
+      <Title><![CDATA[]]></Title>
+      <Style>Blog</Style>
+      <Entry>
+        <Title><![CDATA[]]></Title>
+        <ThumbnailFilename>thumbnail_00000002_2de3051a.jpg</ThumbnailFilename>
+        <Snapshot>snapshot_00000002_2de3051a.jpg</Snapshot>
+        <Text><![CDATA[]]></Text>
+        <TextResourceId>0x00a90051</TextResourceId>
+        <TimeStamp>7/28/2004 0:28:29</TimeStamp>
+      </Entry>
+      <Entry>
+        <Title><![CDATA[]]></Title>
+        <ThumbnailFilename>thumbnail_00000002_cde30519.jpg</ThumbnailFilename>
+        <Snapshot>snapshot_00000002_cde30519.jpg</Snapshot>
+        <Text><![CDATA[]]></Text>
+        <TextResourceId>0x00a90052</TextResourceId>
+        <TimeStamp>7/28/2004 0:28:29</TimeStamp>
+      </Entry>
+      <Entry>
+        <Title><![CDATA[]]></Title>
+        <ThumbnailFilename>thumbnail_00000002_6de3041e.jpg</ThumbnailFilename>
+        <Snapshot>snapshot_00000002_6de3041e.jpg</Snapshot>
+        <Text><![CDATA[]]></Text>
+        <TextResourceId>0x00a90054</TextResourceId>
+        <TimeStamp>7/28/2004 0:28:29</TimeStamp>
+      </Entry>
+      <Entry>
+        <Title><![CDATA[]]></Title>
+        <ThumbnailFilename>thumbnail_00000002_ede30421.jpg</ThumbnailFilename>
+        <Snapshot>snapshot_00000002_ede30421.jpg</Snapshot>
+        <Text><![CDATA[]]></Text>
+        <TextResourceId>0x00a90053</TextResourceId>
+        <TimeStamp>7/28/2004 0:28:29</TimeStamp>
+      </Entry>
+      <Entry>
+        <Title><![CDATA[]]></Title>
+        <ThumbnailFilename>thumbnail_00000002_8de30423.jpg</ThumbnailFilename>
+        <Snapshot>snapshot_00000002_8de30423.jpg</Snapshot>
+        <Text><![CDATA[]]></Text>
+        <TextResourceId>0x00a90055</TextResourceId>
+        <TimeStamp>7/28/2004 0:28:29</TimeStamp>
+      </Entry>
+      <Entry>
+        <Title><![CDATA[]]></Title>
+        <ThumbnailFilename>thumbnail_00000002_4de30420.jpg</ThumbnailFilename>
+        <Snapshot>snapshot_00000002_4de30420.jpg</Snapshot>
+        <Text><![CDATA[]]></Text>
+        <TextResourceId>0x00a90056</TextResourceId>
+        <TimeStamp>7/28/2004 0:28:29</TimeStamp>
+      </Entry>
+      <KeywordList/>
+      <UploadDescription><![CDATA[]]></UploadDescription>
+    </Album>
+  </ExchangeMetadata>
+</StoryCreator>

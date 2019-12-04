@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StoryCreator>
+  <ClientEnvironment>
+    <AppVersion>1.7.0.113</AppVersion>
+    <LanguageCode>en-us</LanguageCode>
+    <LanguageId>1</LanguageId>
+    <SKU>14726</SKU>
+    <GameVersion>2141707388.153.1,2141707388.1.8</GameVersion>
+  </ClientEnvironment>
+  <ExchangeMetadata>
+    <Album>
+      <ID>0x126372ae</ID>
+      <FamilyName><![CDATA[McGreggor]]></FamilyName>
+      <FamilyId>1</FamilyId>
+      <LinkName></LinkName>
+      <NeighborhoodName><![CDATA[Riverblossom Hills]]></NeighborhoodName>
+      <LotID>0x00000027</LotID>
+      <LotName><![CDATA[115 Old Farm Road]]></LotName>
+      <Title><![CDATA[]]></Title>
+      <Style>Album</Style>
+      <Entry>
+        <Title><![CDATA[]]></Title>
+        <ThumbnailFilename>thumbnail_126372ae_b2ad686d.jpg</ThumbnailFilename>
+        <Snapshot>snapshot_126372ae_b2ad686d.jpg</Snapshot>
+        <Text><![CDATA[]]></Text>
+        <TextResourceId>0x00000000</TextResourceId>
+        <TimeStamp>1/7/2007 6:14:59</TimeStamp>
+      </Entry>
+      <Entry>
+        <Title><![CDATA[]]></Title>
+        <ThumbnailFilename>thumbnail_126372ae_12ad686f.jpg</ThumbnailFilename>
+        <Snapshot>snapshot_126372ae_12ad686f.jpg</Snapshot>
+        <Text><![CDATA[]]></Text>
+        <TextResourceId>0x00000000</TextResourceId>
+        <TimeStamp>1/7/2007 6:14:58</TimeStamp>
+      </Entry>
+      <Entry>
+        <Title><![CDATA[]]></Title>
+        <ThumbnailFilename>thumbnail_126372ae_12ad6871.jpg</ThumbnailFilename>
+        <Snapshot>snapshot_126372ae_12ad6871.jpg</Snapshot>
+        <Text><![CDATA[]]></Text>
+        <TextResourceId>0x00000000</TextResourceId>
+        <TimeStamp>1/7/2007 6:14:56</TimeStamp>
+      </Entry>
+      <Entry>
+        <Title><![CDATA[]]></Title>
+        <ThumbnailFilename>thumbnail_126372ae_b2ad6874.jpg</ThumbnailFilename>
+        <Snapshot>snapshot_126372ae_b2ad6874.jpg</Snapshot>
+        <Text><![CDATA[]]></Text>
+        <TextResourceId>0x00000000</TextResourceId>
+        <TimeStamp>1/7/2007 6:14:55</TimeStamp>
+      </Entry>
+      <Entry>
+        <Title><![CDATA[]]></Title>
+        <ThumbnailFilename>thumbnail_126372ae_72ad6876.jpg</ThumbnailFilename>
+        <Snapshot>snapshot_126372ae_72ad6876.jpg</Snapshot>
+        <Text><![CDATA[]]></Text>
+        <TextResourceId>0x00000000</TextResourceId>
+        <TimeStamp>1/7/2007 6:14:52</TimeStamp>
+      </Entry>
+      <KeywordList/>
+      <UploadDescription><![CDATA[]]></UploadDescription>
+    </Album>
+  </ExchangeMetadata>
+</StoryCreator>

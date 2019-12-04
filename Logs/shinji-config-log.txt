@@ -1,0 +1,304 @@
+Log generated on 12/4/2019, 05:14
+
+=== Application info ===
+Name:            The Sims 2 EP9
+Version:         1.17.0.66
+Build:           ReleaseSRT
+=== Machine info ===
+OS version:      Windows NT 6.1
+CPU:             8260Mhz, Name:GenuineIntel, FPU:1, MMX:1
+Memory:          4096MB
+Free memory:     4096MB
+User:            alex
+Computer:        shinji
+=== Sound device info ===
+Name:            Unknown
+Driver:          Unknown
+=== Graphics device info ===
+Number:          0
+Name (driver):   GeForce 7800 GTX
+Name (database): GeForce 7800 GTX
+Vendor:          NVIDIA
+Chipset:         Vendor: 10de, Device: 0091, Board: 00000000, Chipset: 0000
+Driver:          nvd3dum.dll, Version: 32767.65535.65535.65535, GUID: B2DA86A7-E117-C09F-D36D-F9052E8030FA
+Driver version:  65535
+Monitor:         \\.\DISPLAY1
+Monitor aspect:  1.776223, 16:9
+Screen mode:     1920x1080x32BPP,60Hz
+Texture memory:  192MB
+HW T&L:          Fixed function:1 Programmable:3.0
+Pixel program:   3.0
+Texture stages:  8
+AppControlledAA: 1
+
+Global properties
+-----------------
+uintProp   propertyRevision 6
+boolProp   allowCustomContent true
+boolProp   animationLOD false
+uintProp   antialiasingQuality 4
+boolProp   autoCentering true
+boolProp   autoLogin false
+boolProp   bumpMapping false
+boolProp   checkForPatch true
+boolProp   constrainFloorElevation true
+uintProp   cutawayMemorySize 3
+boolProp   cutawayOutside true
+boolProp   disableCustomObjects false
+boolProp   displayCustomObjectInfo false
+boolProp   displayLookAtBoxes false
+boolProp   displayPaths false
+boolProp   deviceVsynch true
+uintProp   dynamicRenderStrategy 0
+boolProp   edgeScrolling true
+floatProp  horzedgescrollrate 0.5
+floatProp  vertedgescrollrate 0.5
+uintProp   effectPriorityLevel 3
+stringProp lastLoadedNeighborhood Pleasantview
+boolProp   freeWill true
+floatProp  geomBoneInfluenceThreshold 0.01
+boolProp   geomCheckGeomDataIntegrity false
+uintProp   geomGenerateTangentSpaceNormalLines 0
+boolProp   geomGenerateTangentSpaceSxT false
+floatProp  geomGeneratedTangentSpaceNormalLineLength 0.1
+uintProp   geomMaxBoneInfluencesPerVertex 4
+sintProp   geomMaxMorphTargetDeltasPerVertex 4
+floatProp  geomMorphTargetDeltaThreshold 0.001
+floatProp  geomPerBoneBoundBlendWeightThreshold 0.9
+boolProp   guob true
+boolProp   interrupt false
+boolProp   lightOpenGLStyle false
+uintProp   lightingQuality 3
+boolProp   livePIP true
+boolProp   lotInfoAdvancedMode false
+stringProp lotWindowFillColor (0,0,0,1)
+uintProp   maxParticlesTarget 10000
+uintProp   maxTerrainGrade 5
+boolProp   morph true
+stringProp neighborhoodWindowFillColor (0.5,0.5,0.5,1)
+boolProp   noStupidIFFUnlocking false
+boolProp   optimizeMeshes true
+floatProp  particleDamping 0
+floatProp  particleDensity 1
+uintProp   particleLODOffset 0
+floatProp  particleScale 1
+floatProp  particleSizeThreshold 1
+boolProp   quickTips true
+boolProp   reduceBoneWeights false
+boolProp   renderOpaqueUI false
+boolProp   reflectionWithExtraViewer false
+boolProp   rotateCameraSims1Mode false
+boolProp   nhoodWaterReflection false
+boolProp   renderInsideObjectOnlyOnSelectedSimLevel true
+boolProp   showSnowOnGround true
+uintProp   renderInsideVisibleObjects 1
+boolProp   renderSelectedSimLevel false
+boolProp   sleepInBackground true
+boolProp   simInBackground false
+boolProp   simShadows true
+boolProp   snapObjectsToGrid true
+uintProp   soundDetail 2
+boolProp   specHighlights true
+boolProp   unevenTilesFloorable true
+boolProp   useEffects true
+boolProp   useLODs false
+uintProp   snapshotPictureQuality 2
+uintProp   snapshotPictureSize 2
+boolProp   usePixelAspectRatio false
+uintProp   videoCaptureMaxRecordingSeconds 60
+uintProp   videoCaptureQuality 1
+uintProp   videoCaptureSize 1
+boolProp   videoCaptureAudioOn true
+boolProp   CameraDriftCamEnabled true
+boolProp   CameraSpecialEventEnabled true
+boolProp   ShowLotPackageFilename false
+boolProp   SoundMasterGroupVoxEnabled true
+boolProp   SoundMasterGroupFXEnabled true
+boolProp   SoundMasterGroupMusicEnabled true
+boolProp   SoundMasterGroupAmbienceEnabled true
+uintProp   FXVolume 100
+uintProp   VOXVolume 100
+uintProp   AmbienceVolume 100
+uintProp   MusicVolume 40
+floatProp  tvVolume 0.5
+uintProp   AudioPerformance 1
+boolProp   ShowTutorialWelcome true
+boolProp   NoLegacySounds true
+boolProp   liveCameraConstraints true
+uintProp   edithConfigFlags 1
+uintProp   copiedShippedDataToUserDataFolder 262143
+boolProp   enableLotImpostersInLot true
+boolProp   enableNeighborhoodOccupantsInLot true
+uintProp   lotSkirtSizeIncrease 9
+uintProp   neighborhoodPropFadeDistance 50
+boolProp   clickableLotImposters true
+boolProp   showXRayCursor true
+uintProp   maxTotalSims 10
+uintProp   maxTotalHumans 8
+uintProp   maxTotalPets 6
+floatProp  pagodaSlopeControlX 1
+floatProp  pagodaSlopeControlY 1
+floatProp  pagodaCornerHeightRatio 0.25
+floatProp  pagodaEaveX 1.5
+floatProp  pagodaEaveY 1.5
+floatProp  diagonalPagodaEaveX 1
+floatProp  diagonalPagodaEaveY 1
+boolProp   force12HrTime false
+boolProp   enableOceanReflection false
+boolProp   includeCeilings false
+boolProp   quarterTilePlacementEnabled false
+stringProp activeDeviceDisplayMode 1920x1080x32x60
+boolProp   activeDeviceUseSoftwareRasterizer false
+uintProp   optionMaterialDetail 3
+uintProp   optionObjectDetail 3
+uintProp   optionObjectHiding 0
+uintProp   optionSnowOnGround 1
+uintProp   optionShadows 3
+uintProp   optionOpaqueUI 0
+uintProp   optionReflection 1
+uintProp   optionCeiling 1
+uintProp   optionEffectsQuality 3
+uintProp   optionLightingQuality 3
+uintProp   optionSoundQuality 3
+uintProp   optionEnableLotImpostersInLot 1
+uintProp   optionEnableNeighborhoodOccupantsInLot 1
+uintProp   optionLotSkirtSizeIncrease 1
+sintProp   activeDeviceNum 0
+boolProp   copiedUSToUKEnglishNames false
+stringProp activeDeviceList 1;0;GeForce 7800 GTX;10de;0091;65535;32767.65535.65535.65535, GUID: B2DA86A7-E117-C09F-D36D-F9052E8030FA;
+stringProp SoundOutputMode stereo
+boolProp   carsOnRight true
+stringProp startingNeighborhood Pleasantview
+boolProp   perfAddLights true
+boolProp   perfRenderParts true
+boolProp   perfLightCaching true
+boolProp   perfEnableSkinning true
+boolProp   perfEnableMorphing true
+uintProp   lodOverride 0
+boolProp   effectLODSoftChange true
+floatProp  effectMaxTimeDelta 0
+boolProp   enableSnapshot true
+boolProp   floorCollisions true
+boolProp   wallCollisions true
+boolProp   creatingLotTemplate false
+
+
+Device 0
+--------
+
+Options
+-------
+uintProp MaterialDetail 3 #default: 3
+uintProp ObjectDetail 3 #default: 3
+uintProp ObjectHiding 0 #default: 0
+uintProp SnowOnGround 1 #default: 1
+uintProp Shadows 3 #default: 3
+uintProp OpaqueUI 0 #default: 0
+uintProp Reflection 1 #default: 1
+uintProp Ceiling 1 #default: 1
+uintProp EffectsQuality 3 #default: 3
+uintProp LightingQuality 3 #default: 3
+uintProp SoundQuality 3 #default: 3
+uintProp DirtyRect 2 #default: 2
+uintProp FullscreenFadeEffect 1 #default: 1
+uintProp Turbo 2 #default: 2
+uintProp SimulatorControls 3 #default: 3
+uintProp LightingOptimizations 3 #default: 3
+uintProp AnimationSamplingLevel 2 #default: 2
+uintProp LivePIP 1 #default: 1
+uintProp SpecialEventCamera 1 #default: 1
+uintProp ScreenModeResolution 3 #default: 3
+uintProp SubjectTracking 3 #default: 3
+uintProp EnableLotImpostersInLot 1 #default: 1
+uintProp EnableNeighborhoodOccupantsInLot 1 #default: 1
+uintProp LotSkirtSizeIncrease 1 #default: 1
+
+Option properties
+-----------------
+boolProp   bumpMapping true
+uintProp   imageDataSizeReductionOnLoad 0
+boolProp   reduceBoneWeights false
+boolProp   useLODs false
+uintProp   lodOverride 0
+uintProp   renderInsideVisibleObjects 0
+boolProp   showSnowOnGround true
+boolProp   simShadows true
+boolProp   objectShadows true
+boolProp   guob true
+boolProp   heightMapShadows true
+boolProp   renderOpaqueUI false
+boolProp   reflectionWithExtraViewer true
+boolProp   nhoodWaterReflection true
+boolProp   includeCeilings true
+boolProp   useEffects true
+boolProp   enableOceanReflection true
+uintProp   maxParticlesTarget 10000
+uintProp   particleLODOffset 0
+uintProp   effectPriorityLevel 3
+floatProp  particleDensity 1
+floatProp  particleScale 1
+boolProp   lightingEnabled true
+boolProp   portalLighting true
+boolProp   floorAndWallNormalMapping true
+boolProp   specHighlights true
+uintProp   AudioPerformance 2
+uintProp   dynamicRenderStrategy 2
+boolProp   enableSnapshot true
+boolProp   useTurboRect true
+uintProp   maxNumOfVisitingSims 8
+boolProp   optimizedDiffusion true
+boolProp   incrementalLighting true
+boolProp   lerpLights true
+boolProp   useDirtyTiles true
+boolProp   animationFrameSampling false
+boolProp   livePIPDefault true
+boolProp   chooseCameraSpecialEventEnabled true
+uintProp   maxResWidth 1920
+uintProp   maxResHeight 1080
+uintProp   defaultResWidth 1024
+uintProp   defaultResHeight 768
+floatProp  centerTrackingDeadZoneMagnitude 30
+boolProp   enableLotImpostersInLot true
+boolProp   enableNeighborhoodOccupantsInLot true
+uintProp   lotSkirtSizeIncrease 9
+uintProp   optionMaterialDetail 3
+uintProp   optionObjectDetail 3
+uintProp   optionObjectHiding 0
+uintProp   optionSnowOnGround 1
+uintProp   optionShadows 3
+uintProp   optionOpaqueUI 0
+uintProp   optionReflection 1
+uintProp   optionCeiling 1
+uintProp   optionEffectsQuality 3
+uintProp   optionLightingQuality 3
+uintProp   optionSoundQuality 3
+uintProp   optionDirtyRect 2
+uintProp   optionFullscreenFadeEffect 1
+uintProp   optionTurbo 2
+uintProp   optionSimulatorControls 3
+uintProp   optionLightingOptimizations 3
+uintProp   optionAnimationSamplingLevel 2
+uintProp   optionLivePIP 1
+uintProp   optionSpecialEventCamera 1
+uintProp   optionScreenModeResolution 3
+uintProp   optionSubjectTracking 3
+uintProp   optionEnableLotImpostersInLot 1
+uintProp   optionEnableNeighborhoodOccupantsInLot 1
+uintProp   optionLotSkirtSizeIncrease 1
+sintProp   activeDeviceNum 0
+
+Device properties
+-----------------
+boolProp   useRenderTextures false
+uintProp   antialiasingSupport 3
+boolProp   dontMergeNHFlora true
+boolProp   enableDriverMemoryManager false
+boolProp   vs2LoopsFunctional false
+boolProp   presentWorkaround false
+boolProp   enumerateMultisampleLevels true
+boolProp   createNVidiaWorkaroundTexture true
+uintProp   deviceLocalVideoMemorySizeDefault 201326592
+boolProp   activeDeviceUseSoftwareRasterizer false
+uintProp   configParserErrorCode 0
+uintProp   hwMajorPSVersion 3
+

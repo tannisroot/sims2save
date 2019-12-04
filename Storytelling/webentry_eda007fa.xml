@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StoryCreator>
+  <ClientEnvironment>
+    <AppVersion>1.0.0.906</AppVersion>
+    <LanguageCode>en-us</LanguageCode>
+    <LanguageId>1</LanguageId>
+    <SKU>14726</SKU>
+    <GameVersion>2141707388.153.1</GameVersion>
+  </ClientEnvironment>
+  <ExchangeMetadata>
+    <Album>
+      <ID>0xeda007fa</ID>
+      <FamilyName><![CDATA[Capp]]></FamilyName>
+      <FamilyId>1</FamilyId>
+      <LinkName></LinkName>
+      <NeighborhoodName><![CDATA[Veronaville]]></NeighborhoodName>
+      <LotID>0x00000034</LotID>
+      <LotName><![CDATA[Capp Manor]]></LotName>
+      <Title><![CDATA[]]></Title>
+      <Style>Album</Style>
+      <Entry>
+        <Title><![CDATA[]]></Title>
+        <ThumbnailFilename>thumbnail_eda007fa_2dda3832.jpg</ThumbnailFilename>
+        <Snapshot>snapshot_eda007fa_2dda3832.jpg</Snapshot>
+        <Text><![CDATA[]]></Text>
+        <TextResourceId>0x00000000</TextResourceId>
+        <TimeStamp>7/28/2004 23:47:51</TimeStamp>
+      </Entry>
+      <Entry>
+        <Title><![CDATA[]]></Title>
+        <ThumbnailFilename>thumbnail_eda007fa_8dda3831.jpg</ThumbnailFilename>
+        <Snapshot>snapshot_eda007fa_8dda3831.jpg</Snapshot>
+        <Text><![CDATA[]]></Text>
+        <TextResourceId>0x00000000</TextResourceId>
+        <TimeStamp>7/28/2004 23:47:51</TimeStamp>
+      </Entry>
+      <Entry>
+        <Title><![CDATA[]]></Title>
+        <ThumbnailFilename>thumbnail_eda007fa_4dda3833.jpg</ThumbnailFilename>
+        <Snapshot>snapshot_eda007fa_4dda3833.jpg</Snapshot>
+        <Text><![CDATA[]]></Text>
+        <TextResourceId>0x00000000</TextResourceId>
+        <TimeStamp>7/28/2004 23:47:51</TimeStamp>
+      </Entry>
+      <KeywordList/>
+      <UploadDescription><![CDATA[]]></UploadDescription>
+    </Album>
+  </ExchangeMetadata>
+</StoryCreator>

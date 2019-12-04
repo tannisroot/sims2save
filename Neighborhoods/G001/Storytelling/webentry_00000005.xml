@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StoryCreator>
+  <ClientEnvironment>
+    <AppVersion>1.7.0.113</AppVersion>
+    <LanguageCode>en-us</LanguageCode>
+    <LanguageId>1</LanguageId>
+    <SKU>14726</SKU>
+    <GameVersion>2141707388.153.1,2141707388.1.8</GameVersion>
+  </ClientEnvironment>
+  <ExchangeMetadata>
+    <Album>
+      <ID>0x00000005</ID>
+      <FamilyName><![CDATA[]]></FamilyName>
+      <FamilyId>0</FamilyId>
+      <LinkName></LinkName>
+      <NeighborhoodName><![CDATA[Riverblossom Hills]]></NeighborhoodName>
+      <LotID>0x00000000</LotID>
+      <LotName><![CDATA[]]></LotName>
+      <Title><![CDATA[]]></Title>
+      <Style>Blog</Style>
+      <Entry>
+        <Title><![CDATA[]]></Title>
+        <ThumbnailFilename>thumbnail_00000005_d2ad65b1.jpg</ThumbnailFilename>
+        <Snapshot>snapshot_00000005_d2ad65b1.jpg</Snapshot>
+        <Text><![CDATA[]]></Text>
+        <TextResourceId>0x01f70001</TextResourceId>
+        <TimeStamp>1/7/2007 6:23:42</TimeStamp>
+      </Entry>
+      <Entry>
+        <Title><![CDATA[]]></Title>
+        <ThumbnailFilename>thumbnail_00000005_32ad65bb.jpg</ThumbnailFilename>
+        <Snapshot>snapshot_00000005_32ad65bb.jpg</Snapshot>
+        <Text><![CDATA[]]></Text>
+        <TextResourceId>0x01f70002</TextResourceId>
+        <TimeStamp>1/7/2007 6:23:42</TimeStamp>
+      </Entry>
+      <Entry>
+        <Title><![CDATA[]]></Title>
+        <ThumbnailFilename>thumbnail_00000005_52ad65ba.jpg</ThumbnailFilename>
+        <Snapshot>snapshot_00000005_52ad65ba.jpg</Snapshot>
+        <Text><![CDATA[]]></Text>
+        <TextResourceId>0x01f70003</TextResourceId>
+        <TimeStamp>1/7/2007 6:23:42</TimeStamp>
+      </Entry>
+      <Entry>
+        <Title><![CDATA[]]></Title>
+        <ThumbnailFilename>thumbnail_00000005_92ad65b4.jpg</ThumbnailFilename>
+        <Snapshot>snapshot_00000005_92ad65b4.jpg</Snapshot>
+        <Text><![CDATA[]]></Text>
+        <TextResourceId>0x01f70004</TextResourceId>
+        <TimeStamp>1/7/2007 6:23:42</TimeStamp>
+      </Entry>
+      <Entry>
+        <Title><![CDATA[]]></Title>
+        <ThumbnailFilename>thumbnail_00000005_f2ad95d8.jpg</ThumbnailFilename>
+        <Snapshot>snapshot_00000005_f2ad95d8.jpg</Snapshot>
+        <Text><![CDATA[]]></Text>
+        <TextResourceId>0x01f70005</TextResourceId>
+        <TimeStamp>1/7/2007 6:23:42</TimeStamp>
+      </Entry>
+      <Entry>
+        <Title><![CDATA[]]></Title>
+        <ThumbnailFilename>thumbnail_00000005_32ad95d3.jpg</ThumbnailFilename>
+        <Snapshot>snapshot_00000005_32ad95d3.jpg</Snapshot>
+        <Text><![CDATA[]]></Text>
+        <TextResourceId>0x01f70006</TextResourceId>
+        <TimeStamp>1/7/2007 6:23:42</TimeStamp>
+      </Entry>
+      <Entry>
+        <Title><![CDATA[]]></Title>
+        <ThumbnailFilename>thumbnail_00000005_32ad65bc.jpg</ThumbnailFilename>
+        <Snapshot>snapshot_00000005_32ad65bc.jpg</Snapshot>
+        <Text><![CDATA[]]></Text>
+        <TextResourceId>0x01f70007</TextResourceId>
+        <TimeStamp>1/7/2007 6:23:42</TimeStamp>
+      </Entry>
+      <KeywordList/>
+      <UploadDescription><![CDATA[]]></UploadDescription>
+    </Album>
+  </ExchangeMetadata>
+</StoryCreator>

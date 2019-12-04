@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StoryCreator>
+  <ClientEnvironment>
+    <AppVersion>1.17.0.66</AppVersion>
+    <LanguageCode>uk-us</LanguageCode>
+    <LanguageId>2</LanguageId>
+    <SKU>MXE07706246</SKU>
+    <GameVersion>2141707388.153.1,2141707388.182.1,2141707388.222.1,2141707388.272.1,2141707388.1.5,2141707388.1.6,2141707388.1.7,2141707388.1.8,2141707388.1.9,2141707388.1.10,2141707388.1.11,2141707388.1.12,2141707388.1.13,2141707388.1.14,2141707388.1.15,2141707388.1.16,2141707388.1.17,2141707388.1.18</GameVersion>
+  </ClientEnvironment>
+  <ExchangeMetadata>
+    <Album>
+      <ID>0x6af12fff</ID>
+      <FamilyName><![CDATA[]]></FamilyName>
+      <FamilyId>3</FamilyId>
+      <LinkName></LinkName>
+      <NeighborhoodName><![CDATA[Pleasantview2]]></NeighborhoodName>
+      <LotID>0x00000024</LotID>
+      <LotName><![CDATA[55 Woodland Drive]]></LotName>
+      <Title><![CDATA[]]></Title>
+      <Style>Album</Style>
+      <Entry>
+        <Title><![CDATA[]]></Title>
+        <ThumbnailFilename>thumbnail_6af12fff_4db0f599.jpg</ThumbnailFilename>
+        <Snapshot>snapshot_6af12fff_4db0f599.jpg</Snapshot>
+        <Text><![CDATA[]]></Text>
+        <TextResourceId>0x00000000</TextResourceId>
+        <TimeStamp>11/15/2009 8:58:4</TimeStamp>
+      </Entry>
+      <Entry>
+        <Title><![CDATA[]]></Title>
+        <ThumbnailFilename>thumbnail_6af12fff_edb0f598.jpg</ThumbnailFilename>
+        <Snapshot>snapshot_6af12fff_edb0f598.jpg</Snapshot>
+        <Text><![CDATA[]]></Text>
+        <TextResourceId>0x00000000</TextResourceId>
+        <TimeStamp>11/15/2009 8:58:4</TimeStamp>
+      </Entry>
+      <Entry>
+        <Title><![CDATA[]]></Title>
+        <ThumbnailFilename>thumbnail_6af12fff_2db0f595.jpg</ThumbnailFilename>
+        <Snapshot>snapshot_6af12fff_2db0f595.jpg</Snapshot>
+        <Text><![CDATA[]]></Text>
+        <TextResourceId>0x00000000</TextResourceId>
+        <TimeStamp>11/15/2009 8:58:4</TimeStamp>
+      </Entry>
+      <Entry>
+        <Title><![CDATA[]]></Title>
+        <ThumbnailFilename>thumbnail_6af12fff_8db0f596.jpg</ThumbnailFilename>
+        <Snapshot>snapshot_6af12fff_8db0f596.jpg</Snapshot>
+        <Text><![CDATA[]]></Text>
+        <TextResourceId>0x00000000</TextResourceId>
+        <TimeStamp>11/15/2009 8:58:4</TimeStamp>
+      </Entry>
+      <Entry>
+        <Title><![CDATA[]]></Title>
+        <ThumbnailFilename>thumbnail_6af12fff_cdb0f597.jpg</ThumbnailFilename>
+        <Snapshot>snapshot_6af12fff_cdb0f597.jpg</Snapshot>
+        <Text><![CDATA[]]></Text>
+        <TextResourceId>0x00000000</TextResourceId>
+        <TimeStamp>11/15/2009 8:58:4</TimeStamp>
+      </Entry>
+      <KeywordList/>
+      <UploadDescription><![CDATA[]]></UploadDescription>
+    </Album>
+  </ExchangeMetadata>
+</StoryCreator>

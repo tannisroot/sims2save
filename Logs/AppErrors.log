@@ -1,0 +1,36 @@
+ERROR TSAudio: Segment at %DataDirectory%Res\Sound\Locale\%Language%\Sfx\Samples\Karaoke\ has no extensions defined in section DBSegmentDirectoryFiles
+.\source\TSAudioResourceManager.cpp(944)
+ERROR TSAudio: Segment at %DataDirectory%Res\Sound\Locale\%Language%\Sfx\Tracks\Karaoke\ has no extensions defined in section DBSegmentDirectoryFiles
+.\source\TSAudioResourceManager.cpp(944)
+ERROR TSAudio: Segment at %DataDirectory%Res\Sound\Locale\%Language%\Sfx\Samples\DJBooth\ has no extensions defined in section DBSegmentDirectoryFiles
+.\source\TSAudioResourceManager.cpp(944)
+ERROR TSAudio: Segment at %DataDirectory%Res\Sound\Locale\%Language%\Sfx\Tracks\DJBooth\ has no extensions defined in section DBSegmentDirectoryFiles
+.\source\TSAudioResourceManager.cpp(944)
+ERROR TSAudioMusic     : Music category (Buy) listed twice in category property set.
+.\source\TSAudioMusicManager.cpp(1667)
+ERROR TSAudioMusic     : Music category (Build) listed twice in category property set.
+.\source\TSAudioMusicManager.cpp(1667)
+ERROR TSAudioMusic     : Music category (CAS) listed twice in category property set.
+.\source\TSAudioMusicManager.cpp(1667)
+ERROR TSAudioMusic     : Music category (NHood) listed twice in category property set.
+.\source\TSAudioMusicManager.cpp(1667)
+ERROR TSAudioMusic     : Music category (CAS) listed twice in category property set.
+.\source\TSAudioMusicManager.cpp(1667)
+ERROR TSAudioMusic     : Music category (Buy) listed twice in category property set.
+.\source\TSAudioMusicManager.cpp(1667)
+ERROR TSAudioMusic     : Music category (Build) listed twice in category property set.
+.\source\TSAudioMusicManager.cpp(1667)
+ERROR TSAudioMusic     : Music category (NHood) listed twice in category property set.
+.\source\TSAudioMusicManager.cpp(1667)
+ERROR TSAudioMusic     : Music category (NHood) listed twice in category property set.
+.\source\TSAudioMusicManager.cpp(1667)
+ERROR TSAudioMusic     : Music category (Buy) listed twice in category property set.
+.\source\TSAudioMusicManager.cpp(1667)
+ERROR TSAudioMusic     : Music category (Build) listed twice in category property set.
+.\source\TSAudioMusicManager.cpp(1667)
+ERROR TSAudioMusic     : Music category (CAS) listed twice in category property set.
+.\source\TSAudioMusicManager.cpp(1667)
+ERROR TSAudio: Failed to cache resource. 0b9eb87e:0da1f2ca:ff99e0de
+.\source\TSAudioResourceManager.cpp(1220)
+ERROR TSAudio: Failed to cache resource. 0b9eb87e:eb8ab356:ff8bceb2
+.\source\TSAudioResourceManager.cpp(1220)
