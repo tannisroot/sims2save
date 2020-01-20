@@ -1,4 +1,4 @@
-Log generated on 12/4/2019, 13:25
+Log generated on 1/20/2020, 23:30
 
 === Application info ===
 Name:            The Sims 2 EP9
@@ -6,11 +6,11 @@ Version:         1.17.0.66
 Build:           ReleaseSRT
 === Machine info ===
 OS version:      Windows NT 6.1
-CPU:             8260Mhz, Name:GenuineIntel, FPU:1, MMX:1
+CPU:             5880Mhz, Name:AuthenticAMD, FPU:1, MMX:1
 Memory:          4096MB
 Free memory:     4096MB
 User:            alex
-Computer:        shinji
+Computer:        SHINJI
 === Sound device info ===
 Name:            Unknown
 Driver:          Unknown
@@ -24,7 +24,7 @@ Driver:          nvd3dum.dll, Version: 32767.65535.65535.65535, GUID: B2DA86A7-E
 Driver version:  65535
 Monitor:         \\.\DISPLAY1
 Monitor aspect:  1.776223, 16:9
-Screen mode:     1920x1080x32BPP,60Hz
+Screen mode:     1920x1080x32BPP,75Hz
 Texture memory:  192MB
 HW T&L:          Fixed function:1 Programmable:3.0
 Pixel program:   3.0
@@ -110,7 +110,7 @@ uintProp   videoCaptureQuality 1
 uintProp   videoCaptureSize 1
 boolProp   videoCaptureAudioOn true
 boolProp   CameraDriftCamEnabled true
-boolProp   CameraSpecialEventEnabled true
+boolProp   CameraSpecialEventEnabled false
 boolProp   ShowLotPackageFilename false
 boolProp   SoundMasterGroupVoxEnabled true
 boolProp   SoundMasterGroupFXEnabled true
@@ -147,7 +147,7 @@ boolProp   force12HrTime false
 boolProp   enableOceanReflection false
 boolProp   includeCeilings false
 boolProp   quarterTilePlacementEnabled false
-stringProp activeDeviceDisplayMode 1920x1080x32x60
+stringProp activeDeviceDisplayMode 1920x1080x32x75
 boolProp   activeDeviceUseSoftwareRasterizer false
 uintProp   optionMaterialDetail 3
 uintProp   optionObjectDetail 3
@@ -156,7 +156,7 @@ uintProp   optionSnowOnGround 1
 uintProp   optionShadows 3
 uintProp   optionOpaqueUI 0
 uintProp   optionReflection 1
-uintProp   optionCeiling 1
+uintProp   optionCeiling 0
 uintProp   optionEffectsQuality 3
 uintProp   optionLightingQuality 3
 uintProp   optionSoundQuality 3
@@ -195,7 +195,7 @@ uintProp SnowOnGround 1 #default: 1
 uintProp Shadows 3 #default: 3
 uintProp OpaqueUI 0 #default: 0
 uintProp Reflection 1 #default: 1
-uintProp Ceiling 1 #default: 1
+uintProp Ceiling 0 #default: 1
 uintProp EffectsQuality 3 #default: 3
 uintProp LightingQuality 3 #default: 3
 uintProp SoundQuality 3 #default: 3
@@ -229,7 +229,7 @@ boolProp   heightMapShadows true
 boolProp   renderOpaqueUI false
 boolProp   reflectionWithExtraViewer true
 boolProp   nhoodWaterReflection true
-boolProp   includeCeilings true
+boolProp   includeCeilings false
 boolProp   useEffects true
 boolProp   enableOceanReflection true
 uintProp   maxParticlesTarget 10000
@@ -268,7 +268,7 @@ uintProp   optionSnowOnGround 1
 uintProp   optionShadows 3
 uintProp   optionOpaqueUI 0
 uintProp   optionReflection 1
-uintProp   optionCeiling 1
+uintProp   optionCeiling 0
 uintProp   optionEffectsQuality 3
 uintProp   optionLightingQuality 3
 uintProp   optionSoundQuality 3

@@ -26,7 +26,7 @@
   <AnyUint32 key="videoCaptureSize" type="0xeb61e4f7">1</AnyUint32>
   <AnyBoolean key="videoCaptureAudioOn" type="0xcba908e1">true</AnyBoolean>
   <AnyBoolean key="CameraDriftCamEnabled" type="0xcba908e1">true</AnyBoolean>
-  <AnyBoolean key="CameraSpecialEventEnabled" type="0xcba908e1">true</AnyBoolean>
+  <AnyBoolean key="CameraSpecialEventEnabled" type="0xcba908e1">false</AnyBoolean>
   <AnyBoolean key="SoundMasterGroupVoxEnabled" type="0xcba908e1">true</AnyBoolean>
   <AnyBoolean key="SoundMasterGroupFXEnabled" type="0xcba908e1">true</AnyBoolean>
   <AnyBoolean key="SoundMasterGroupMusicEnabled" type="0xcba908e1">true</AnyBoolean>
@@ -101,7 +101,7 @@
   <AnyUint32 key="neighborhoodPropFadeDistance" type="0xeb61e4f7">50</AnyUint32>
   <AnyBoolean key="clickableLotImposters" type="0xcba908e1">true</AnyBoolean>
   <AnyBoolean key="showXRayCursor" type="0xcba908e1">true</AnyBoolean>
-  <AnyString key="activeDeviceDisplayMode" type="0x0b8bea18">1920x1080x32x60</AnyString>
+  <AnyString key="activeDeviceDisplayMode" type="0x0b8bea18">1920x1080x32x75</AnyString>
   <AnyBoolean key="activeDeviceUseSoftwareRasterizer" type="0xcba908e1">false</AnyBoolean>
   <AnyUint32 key="optionMaterialDetail" type="0xeb61e4f7">3</AnyUint32>
   <AnyUint32 key="optionObjectDetail" type="0xeb61e4f7">3</AnyUint32>
@@ -110,7 +110,7 @@
   <AnyUint32 key="optionShadows" type="0xeb61e4f7">3</AnyUint32>
   <AnyUint32 key="optionOpaqueUI" type="0xeb61e4f7">0</AnyUint32>
   <AnyUint32 key="optionReflection" type="0xeb61e4f7">1</AnyUint32>
-  <AnyUint32 key="optionCeiling" type="0xeb61e4f7">1</AnyUint32>
+  <AnyUint32 key="optionCeiling" type="0xeb61e4f7">0</AnyUint32>
   <AnyUint32 key="optionEffectsQuality" type="0xeb61e4f7">3</AnyUint32>
   <AnyUint32 key="optionLightingQuality" type="0xeb61e4f7">3</AnyUint32>
   <AnyUint32 key="optionSoundQuality" type="0xeb61e4f7">3</AnyUint32>

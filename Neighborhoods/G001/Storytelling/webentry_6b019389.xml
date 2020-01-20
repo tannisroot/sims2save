@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<StoryCreator>
+  <ClientEnvironment>
+    <AppVersion>1.17.0.66</AppVersion>
+    <LanguageCode>en-us</LanguageCode>
+    <LanguageId>1</LanguageId>
+    <SKU>14726</SKU>
+    <GameVersion>2141707388.153.1,2141707388.182.1,2141707388.222.1,2141707388.272.1,2141707388.1.5,2141707388.1.6,2141707388.1.7,2141707388.1.8,2141707388.1.9,2141707388.1.10,2141707388.1.11,2141707388.1.12,2141707388.1.13,2141707388.1.14,2141707388.1.15,2141707388.1.16,2141707388.1.17,2141707388.1.18</GameVersion>
+  </ClientEnvironment>
+  <ExchangeMetadata>
+    <Album>
+      <ID>0x6b019389</ID>
+      <FamilyName><![CDATA[Rose]]></FamilyName>
+      <FamilyId>35</FamilyId>
+      <LinkName></LinkName>
+      <NeighborhoodName><![CDATA[Pleasantview]]></NeighborhoodName>
+      <LotID>0x000000c0</LotID>
+      <LotName><![CDATA[190 Sim Lane]]></LotName>
+      <Title><![CDATA[The Rose Family]]></Title>
+      <Style>Album</Style>
+      <KeywordList/>
+      <UploadDescription><![CDATA[]]></UploadDescription>
+    </Album>
+  </ExchangeMetadata>
+</StoryCreator>
