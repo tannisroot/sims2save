@@ -1,0 +1,150 @@
+Exception time: 06/18/2020, at 15:57:42.
+Exception code: 0xE06D7363 (-529697949) .
+Current thread ID: 9 (0x00000009).
+Version information:
+Application/module path: C:\Program Files (x86)\Origin Games\The Sims 2 Ultimate Collection\Fun with Pets\SP9\TSBin\Sims2EP9.exe
+Application/module version name: The Sims 2 EP9
+Application/module version: 1.17.0.66
+System version: Windows NT 6.1
+System memory: 4096 Megabytes total, 4096 Megabytes free.
+Application/module configuration: ReleaseSRT
+
+
+Extra Exception Data:
+
+Shutdown: 0
+HostName: SHINJI
+MemoryUsage: 441308K
+Neighborhood Name: Pleasantview
+Neighborhood Prefix: G001
+Lot Name: 
+Extra Exception Data End:
+
+Exception module:  C:\windows\system32\kernelbase.dll.
+Exception address: 0x7b03214f. Section:Offset: 0x01:0x0001114f.
+
+Registers
+   EAX: 0350ffc0
+   EBX: 03510080
+   ECX: 0350ffb0
+   EDX: 0350ffe0
+   ESI: 035100a4
+   EDI: 0351e130
+   CS:EIP: 0023:7b03214f
+   SS:ESP: 002b:0350ffb4  EBP:03510018
+   DS:002b  ES:4d43002b  FS:0063  GS:006b
+   Flags: 00000216
+
+Loaded Modules
+   Address          Size Module             Path
+   ----------------------------------------------------------------------------------------------
+   0x00400000   46208224 Sims2EP9.exe       C:\Program Files (x86)\Origin Games\The Sims 2 Ultimate Collection\Fun with Pets\SP9\TSBin\Sims2EP9.exe
+   0x7bc30000    1449984 ntdll.dll          C:\windows\system32\ntdll.dll
+   0x7b420000    2408448 kernel32.dll       C:\windows\system32\kernel32.dll
+   0x7b020000     757760 kernelbase.dll     C:\windows\system32\kernelbase.dll
+   0x7eaa0000      20480 wow64cpu.dll       C:\windows\system32\wow64cpu.dll
+   0x10000000    1216512 d3d9.dll           C:\Program Files (x86)\Origin Games\The Sims 2 Ultimate Collection\Fun with Pets\SP9\TSBin\d3d9.dll
+   0x7ea80000      69632 vulkan-1.dll       C:\windows\system32\vulkan-1.dll
+   0x7e990000     950272 ucrtbase.dll       C:\windows\system32\ucrtbase.dll
+   0x7e920000     262144 winevulkan.dll     C:\windows\system32\winevulkan.dll
+   0x7e700000    2146304 user32.dll         C:\windows\system32\user32.dll
+   0x7e660000     479232 setupapi.dll       C:\windows\system32\setupapi.dll
+   0x7e640000      32768 version.dll        C:\windows\system32\version.dll
+   0x7e5c0000     462848 advapi32.dll       C:\windows\system32\advapi32.dll
+   0x7e530000     520192 rpcrt4.dll         C:\windows\system32\rpcrt4.dll
+   0x7e3e0000    1277952 gdi32.dll          C:\windows\system32\gdi32.dll
+   0x7e2e0000     921600 MSVCP140.dll       C:\windows\system32\MSVCP140.dll
+   0x7e280000      53248 VCRUNTIME140.dll   C:\windows\system32\VCRUNTIME140.dll
+   0x7e270000      28672 api-ms-win-crt-run C:\windows\system32\api-ms-win-crt-runtime-l1-1-0.dll
+   0x7e250000      69632 api-ms-win-crt-hea C:\windows\system32\api-ms-win-crt-heap-l1-1-0.dll
+   0x7e240000      53248 api-ms-win-crt-str C:\windows\system32\api-ms-win-crt-string-l1-1-0.dll
+   0x7e220000      94208 api-ms-win-crt-mat C:\windows\system32\api-ms-win-crt-math-l1-1-0.dll
+   0x7e210000      57344 api-ms-win-crt-std C:\windows\system32\api-ms-win-crt-stdio-l1-1-0.dll
+   0x7e200000      36864 api-ms-win-crt-fil C:\windows\system32\api-ms-win-crt-filesystem-l1-1-0.dll
+   0x7e1f0000      20480 api-ms-win-crt-env C:\windows\system32\api-ms-win-crt-environment-l1-1-0.dll
+   0x7e1c0000     135168 IMM32.dll          C:\windows\system32\IMM32.dll
+   0x7e080000    1290240 ole32.dll          C:\windows\system32\ole32.dll
+   0x7e030000     126976 MSVFW32.dll        C:\windows\system32\MSVFW32.dll
+   0x7df60000     782336 winmm.dll          C:\windows\system32\winmm.dll
+   0x7de20000    1269760 comctl32.dll       C:\windows\system32\comctl32.dll
+   0x7ddc0000     262144 usp10.dll          C:\windows\system32\usp10.dll
+   0x7dd10000     270336 AVIFIL32.dll       C:\windows\system32\AVIFIL32.dll
+   0x7dd90000     159744 msacm32.dll        C:\windows\system32\msacm32.dll
+   0x7d300000   10485760 SHELL32.dll        C:\windows\system32\SHELL32.dll
+   0x7d280000     315392 shlwapi.dll        C:\windows\system32\shlwapi.dll
+   0x7d250000      90112 shcore.dll         C:\windows\system32\shcore.dll
+   0x7d230000      65536 aclui.dll          C:\windows\system32\aclui.dll
+   0x7d120000    1064960 OLEAUT32.dll       C:\windows\system32\OLEAUT32.dll
+   0x7d0c0000     163840 WS2_32.dll         C:\windows\system32\WS2_32.dll
+   0x7d060000     311296 DSOUND.dll         C:\windows\system32\DSOUND.dll
+   0x7cf60000     630784 winex11.drv        C:\windows\system32\winex11.drv
+   0x7c410000     118784 concrt140.dll      C:\windows\system32\concrt140.dll
+   0x03b90000     974848 msvcr120.dll       C:\windows\system32\msvcr120.dll
+   0x7c360000     262144 uxtheme.dll        C:\windows\system32\uxtheme.dll
+   0xf7af0000     458752 DbgHelp.dll        C:\windows\system32\DbgHelp.dll
+   0xf7f40000      69632 psapi.dll          C:\windows\system32\psapi.dll
+   0xf7a80000      86016 rasapi32.dll       C:\windows\system32\rasapi32.dll
+   0xf7a60000      98304 mmdevapi.dll       C:\windows\system32\mmdevapi.dll
+   0xf7a20000     200704 winepulse.drv      C:\windows\system32\winepulse.drv
+   0xe4570000     147456 dxdiagn.dll        C:\windows\system32\dxdiagn.dll
+   0xe4500000     434176 ddraw.dll          C:\windows\system32\ddraw.dll
+   0xe43a0000    1363968 wined3d.dll        C:\windows\system32\wined3d.dll
+   0x7a840000    1085440 opengl32.dll       C:\windows\system32\opengl32.dll
+   0xe4320000     221184 wbemprox.dll       C:\windows\system32\wbemprox.dll
+   0xe42d0000     266240 winspool.drv       C:\windows\system32\winspool.drv
+   0xe42a0000     110592 iphlpapi.dll       C:\windows\system32\iphlpapi.dll
+   0xe4260000     184320 dxgi.dll           C:\windows\system32\dxgi.dll
+   0x69240000    1314816 dxvk_config.dll    C:\windows\system32\dxvk_config.dll
+   0xe3180000     696320 msvcrt.dll         C:\windows\system32\msvcrt.dll
+   0xe3130000     159744 devenum.dll        C:\windows\system32\devenum.dll
+   0xe3510000      36864 avicap32.dll       C:\windows\system32\avicap32.dll
+   0xe3110000     122880 msdmo.dll          C:\windows\system32\msdmo.dll
+   0xe3050000     782336 quartz.dll         C:\windows\system32\quartz.dll
+   0xe2e60000     196608 winealsa.drv       C:\windows\system32\winealsa.drv
+   0xe3020000      65536 msacm32.drv        C:\windows\system32\msacm32.drv
+   0xe2d50000      65536 midimap.dll        C:\windows\system32\midimap.dll
+   0x60000000     360448 ijl15.dll          C:\Program Files (x86)\Origin Games\The Sims 2 Ultimate Collection\Fun with Pets\SP9\TSBin\ijl15.dll
+
+Call stack:
+(Debug information (.pdb files) appears to be absent).
+0x0001:0x0001114f C:\windows\system32\kernelbase.dll.
+0x0001:0x00026495 C:\windows\system32\ucrtbase.dll.
+0x0001:0x00015422 C:\windows\system32\MSVCP140.dll.
+0x0001:0x00015739 C:\windows\system32\MSVCP140.dll.
+0x0001:0x0004ee94 C:\Program Files (x86)\Origin Games\The Sims 2 Ultimate Collection\Fun with Pets\SP9\TSBin\d3d9.dll PSGPSampleTexture() + 305236
+
+Stack data: (ESP is 0x0350ffb4)
+0x0350fe34   00000000 00000000 000400c0 16400000 00000000 20059319 80005103 00000000 
+0x0350fe54   00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 
+0x0350fe74   00000000 00000000 00000000 00000000 00000000 94000500 06000000 10000000 
+0x0350fe94   20000000 48000500 17000000 04000000 23000000 18000000 48000500 17000000 
+0x0350feb4   05000000 23000000 1c000000 48000500 17000000 00000000 38050000 d8d5ec0a 
+0x0350fed4   00002300 00000000 00000000 00000000 00000000 0300434d 00000000 00000000 
+0x0350fef4   00000000 0300434d 00000000 00000000 00000000 00000000 00000000 0100434d 
+0x0350ff14   d8d5ec0a 18000000 00000000 00000000 00000000 0300434d 00000000 00000000 
+0x0350ff34   00000000 00000000 00000000 0000434d f0d5ec0a 38050000 00000000 00000000 
+0x0350ff54   00000000 00000000 00000000 70fc5003 983c0d10 42e8347e 30e15103 88005103 
+0x0350ff74   5c4a2f7e 0300434d 00000000 00000000 5c4a2f7e 03000000 e8c43b7e fce8347e 
+0x0350ff94   00000000 00000000 00000000 0200434d 24dbec0a 18005103 4f21037b c0ff5003 
+0x0350ffb4   44005103 0c000000 034c2f7e 63736de0 01000000 00000000 4f21037b 03000000 
+0x0350ffd4   20059319 80005103 20f3347e 00000000 4f165b31 10005103 80005103 a4005103 
+0x0350fff4   30e15103 38005103 6a532f7e 00002300 00000000 a0e17e11 6a532f7e 80005103 
+0x03510014   30005103 58005103 95749b7e 00000000 00000000 58005103 95749b7e 63736de0 
+0x03510034   01000000 03000000 44005103 00002300 20059319 80005103 20f3347e 80005103 
+0x03510054   70005103 98005103 22642f7e 02000000 084c6611 b8005103 22642f7e 80005103 
+0x03510074   20f3347e 98005103 14642f7e 7cbc3b7e a0d07e11 01000000 2b672f7e 983c0d10 
+0x03510094   e8015103 b8005103 39672f7e 06000000 983c0d10 b8005103 11672f7e cc005103 
+0x035100b4   3c045103 1c025103 94fe0410 01000000 cc005103 94fe0410 983c0d10 e4015103 
+0x035100d4   d5340510 e8015103 3c045103 1c025103 e4015103 3c045103 10015103 00000000 
+0x035100f4   50e27e11 e4015103 1e199d7e 00002300 00000000 28015103 1e199d7e 00002300 
+0x03510114   af175b31 5e500510 1c025103 e4015103 00000000 1c025103 04000000 50e27e11 
+
+Instruction data: (EIP is 0x7b03214f)
+0x7b0320cf   00 cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc cc 8b ff 55 8b ec 5d 8d 4c 24 04 83 e4 f0 ff 71 
+0x7b0320ef   fc 55 89 e5 51 83 ec 54 8b 01 8b 51 04 c7 45 b0 00 00 00 00 c7 45 b4 e0 20 03 7b 89 45 a8 8b 41 
+0x7b03210f   08 83 e2 01 8b 49 0c 89 55 ac 85 c0 74 43 85 c9 74 3f 83 f8 0f ba 0f 00 00 00 0f 47 c2 83 ec 04 
+0x7b03212f   89 45 b8 c1 e0 02 50 8d 45 bc 51 50 e8 70 ad ff ff 83 c4 10 8d 45 a8 83 ec 0c 50 e8 21 b5 ff ff 
+0x7b03214f   8b 4d fc 83 c4 0c c9 8d 61 fc c2 10 00 8d 74 26 00 c7 45 b8 00 00 00 00 eb da 8d b4 26 00 00 00 
+0x7b03216f   00 8d 4c 24 04 83 e4 f0 ff 71 fc 55 8d 41 0c 89 e5 51 83 ec 04 50 ff 71 08 ff 71 04 ff 31 e8 36 
+0x7b03218f   b7 ff ff 8b 4d fc c9 8d 61 fc c3 8d b6 00 00 00 00 55 89 e5 57 56 53 89 d7 89 c6 89 cb 83 ec 0c 
+0x7b0321af   8b 10 8b 02 3d 8c 00 00 c0 0f 84 ba 01 00 00 76 58 3d 96 00 00 c0 0f 84 f5 00 00 00 0f 86 2f 01 

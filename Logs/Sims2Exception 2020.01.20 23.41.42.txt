@@ -1,0 +1,149 @@
+Exception time: 01/20/2020, at 23:41:42.
+Exception code: 0xC0000005 (-1073741819) ACCESS_VIOLATION.
+Current thread ID: 9 (0x00000009).
+Version information:
+Application/module path: C:\Program Files (x86)\Origin Games\The Sims 2 Ultimate Collection\Fun with Pets\SP9\TSBin\Sims2EP9.exe
+Application/module version name: The Sims 2 EP9
+Application/module version: 1.17.0.66
+System version: Windows NT 6.1
+System memory: 4096 Megabytes total, 4096 Megabytes free.
+Application/module configuration: ReleaseSRT
+
+
+Extra Exception Data:
+
+Shutdown: 0
+HostName: SHINJI
+MemoryUsage: 817000K
+Neighborhood Name: Pleasantview
+Neighborhood Prefix: N001
+Lot Name: 215 Sim Lane
+Family Name: Pleasant
+Extra Exception Data End:
+
+Exception module:  C:\Program Files (x86)\Origin Games\The Sims 2 Ultimate Collection\Fun with Pets\SP9\TSBin\Sims2EP9.exe.
+Exception address: 0x004f8ec4. Section:Offset: 0x01:0x000f7ec4.
+
+Registers
+   EAX: 00000000
+   EBX: 00000000
+   ECX: 03b5fd50
+   EDX: 000000e3
+   ESI: 1caa7600
+   EDI: 00000800
+   CS:EIP: 0023:004f8ec4
+   SS:ESP: 002b:0351fae8  EBP:0351fb2c
+   DS:002b  ES:002b  FS:0063  GS:006b
+   Flags: 00010286
+
+Loaded Modules
+   Address          Size Module             Path
+   ----------------------------------------------------------------------------------------------
+   0x00400000   46208224 Sims2EP9.exe       C:\Program Files (x86)\Origin Games\The Sims 2 Ultimate Collection\Fun with Pets\SP9\TSBin\Sims2EP9.exe
+   0x7bc30000    2940928 ntdll.dll          C:\windows\system32\ntdll.dll
+   0x7b420000    2433024 kernel32.dll       C:\windows\system32\kernel32.dll
+   0x7b020000     786432 kernelbase.dll     C:\windows\system32\kernelbase.dll
+   0x7eaa0000      16384 wow64cpu.dll       C:\windows\system32\wow64cpu.dll
+   0x62440000    2846720 d3d9.dll           C:\windows\system32\d3d9.dll
+   0x7ea80000      65536 vulkan-1.dll       C:\windows\system32\vulkan-1.dll
+   0x7e9d0000     688128 msvcrt.dll         C:\windows\system32\msvcrt.dll
+   0x7e970000     212992 winevulkan.dll     C:\windows\system32\winevulkan.dll
+   0x7e750000    2134016 user32.dll         C:\windows\system32\user32.dll
+   0x7e5f0000    1261568 gdi32.dll          C:\windows\system32\gdi32.dll
+   0x7e560000     442368 advapi32.dll       C:\windows\system32\advapi32.dll
+   0x7e540000      36864 version.dll        C:\windows\system32\version.dll
+   0x7e520000      73728 IMM32.dll          C:\windows\system32\IMM32.dll
+   0x7e4f0000     118784 MSVFW32.dll        C:\windows\system32\MSVFW32.dll
+   0x7e420000     774144 winmm.dll          C:\windows\system32\winmm.dll
+   0x7e1a0000    1282048 comctl32.dll       C:\windows\system32\comctl32.dll
+   0x7e3d0000     278528 usp10.dll          C:\windows\system32\usp10.dll
+   0x7e380000     294912 AVIFIL32.dll       C:\windows\system32\AVIFIL32.dll
+   0x7e350000     155648 msacm32.dll        C:\windows\system32\msacm32.dll
+   0x7e050000    1245184 ole32.dll          C:\windows\system32\ole32.dll
+   0x7dfa0000     487424 rpcrt4.dll         C:\windows\system32\rpcrt4.dll
+   0x7d580000   10485760 SHELL32.dll        C:\windows\system32\SHELL32.dll
+   0x7d500000     315392 shlwapi.dll        C:\windows\system32\shlwapi.dll
+   0x7e330000      94208 shcore.dll         C:\windows\system32\shcore.dll
+   0x7e310000      69632 aclui.dll          C:\windows\system32\aclui.dll
+   0x7d3e0000    1073152 OLEAUT32.dll       C:\windows\system32\OLEAUT32.dll
+   0x7d380000     172032 WS2_32.dll         C:\windows\system32\WS2_32.dll
+   0x7d330000     253952 DSOUND.dll         C:\windows\system32\DSOUND.dll
+   0x7d230000     958464 ucrtbase.dll       C:\windows\system32\ucrtbase.dll
+   0x7d100000     638976 winex11.drv        C:\windows\system32\winex11.drv
+   0x7ced0000     495616 setupapi.dll       C:\windows\system32\setupapi.dll
+   0x7c580000     233472 uxtheme.dll        C:\windows\system32\uxtheme.dll
+   0xf7a90000     462848 DbgHelp.dll        C:\windows\system32\DbgHelp.dll
+   0xf7a70000      40960 psapi.dll          C:\windows\system32\psapi.dll
+   0xf7a10000      57344 rasapi32.dll       C:\windows\system32\rasapi32.dll
+   0xf79e0000     135168 mmdevapi.dll       C:\windows\system32\mmdevapi.dll
+   0xf79a0000     237568 winepulse.drv      C:\windows\system32\winepulse.drv
+   0xf7440000     102400 dxdiagn.dll        C:\windows\system32\dxdiagn.dll
+   0xe7240000     430080 ddraw.dll          C:\windows\system32\ddraw.dll
+   0xe4250000    1351680 wined3d.dll        C:\windows\system32\wined3d.dll
+   0x7a840000    1085440 opengl32.dll       C:\windows\system32\opengl32.dll
+   0xe53d0000     221184 wbemprox.dll       C:\windows\system32\wbemprox.dll
+   0xe5380000     266240 winspool.drv       C:\windows\system32\winspool.drv
+   0xf7410000     126976 iphlpapi.dll       C:\windows\system32\iphlpapi.dll
+   0x6f400000    2088960 dxgi.dll           C:\windows\system32\dxgi.dll
+   0xe3330000      98304 devenum.dll        C:\windows\system32\devenum.dll
+   0xe3610000      40960 avicap32.dll       C:\windows\system32\avicap32.dll
+   0xe3310000      61440 msdmo.dll          C:\windows\system32\msdmo.dll
+   0xe3240000     786432 quartz.dll         C:\windows\system32\quartz.dll
+   0xe31f0000     208896 winealsa.drv       C:\windows\system32\winealsa.drv
+   0xe31d0000      53248 msacm32.drv        C:\windows\system32\msacm32.drv
+   0xe31b0000      81920 midimap.dll        C:\windows\system32\midimap.dll
+   0x60000000     360448 ijl15.dll          C:\Program Files (x86)\Origin Games\The Sims 2 Ultimate Collection\Fun with Pets\SP9\TSBin\ijl15.dll
+
+Call stack:
+0x0001:0x000f7ec4 C:\Program Files (x86)\Origin Games\The Sims 2 Ultimate Collection\Fun with Pets\SP9\TSBin\Sims2EP9.exe GZDllGetGZCOMDirector() + 957344
+0x0001:0x000f714c C:\Program Files (x86)\Origin Games\The Sims 2 Ultimate Collection\Fun with Pets\SP9\TSBin\Sims2EP9.exe GZDllGetGZCOMDirector() + 953896
+0x0001:0x008d1dd7 C:\Program Files (x86)\Origin Games\The Sims 2 Ultimate Collection\Fun with Pets\SP9\TSBin\Sims2EP9.exe public: virtual bool __thiscall cTSAudioCOMDirector::OnStart(class cIGZCOM *)() + 1043111
+0x0001:0x002fb975 C:\Program Files (x86)\Origin Games\The Sims 2 Ultimate Collection\Fun with Pets\SP9\TSBin\Sims2EP9.exe GZDllGetGZCOMDirector() + 3069521
+0x0001:0x002fa3cb C:\Program Files (x86)\Origin Games\The Sims 2 Ultimate Collection\Fun with Pets\SP9\TSBin\Sims2EP9.exe GZDllGetGZCOMDirector() + 3063975
+0x0001:0x0032ec6d C:\Program Files (x86)\Origin Games\The Sims 2 Ultimate Collection\Fun with Pets\SP9\TSBin\Sims2EP9.exe GZDllGetGZCOMDirector() + 3279177
+0x0001:0x00005ad8 C:\Program Files (x86)\Origin Games\The Sims 2 Ultimate Collection\Fun with Pets\SP9\TSBin\Sims2EP9.exe GZDllGetGZCOMDirector() + -1
+0x0001:0x00ae7639 C:\Program Files (x86)\Origin Games\The Sims 2 Ultimate Collection\Fun with Pets\SP9\TSBin\Sims2EP9.exe public: virtual bool __thiscall cTSAppFWCOMDirector::OnStart(class cIGZCOM *)() + 2727
+0x0001:0x00004510 C:\Program Files (x86)\Origin Games\The Sims 2 Ultimate Collection\Fun with Pets\SP9\TSBin\Sims2EP9.exe GZDllGetGZCOMDirector() + -1
+0x0001:0x00ae7bb9 C:\Program Files (x86)\Origin Games\The Sims 2 Ultimate Collection\Fun with Pets\SP9\TSBin\Sims2EP9.exe public: virtual bool __thiscall cTSAppFWCOMDirector::OnStart(class cIGZCOM *)() + 4135
+0x0001:0x00ae7cfd C:\Program Files (x86)\Origin Games\The Sims 2 Ultimate Collection\Fun with Pets\SP9\TSBin\Sims2EP9.exe public: virtual bool __thiscall cTSAppFWCOMDirector::OnStart(class cIGZCOM *)() + 4459
+0x0001:0x00ae2c52 C:\Program Files (x86)\Origin Games\The Sims 2 Ultimate Collection\Fun with Pets\SP9\TSBin\Sims2EP9.exe EntryPoint() + 555896
+0x0001:0x00a5b25e C:\Program Files (x86)\Origin Games\The Sims 2 Ultimate Collection\Fun with Pets\SP9\TSBin\Sims2EP9.exe EntryPoint() + 388
+0x0001:0x00032fd9 C:\windows\system32\kernel32.dll.
+0x0001:0x00033474 C:\windows\system32\kernel32.dll.
+0x0001:0x00032fea C:\windows\system32\kernel32.dll.
+
+Stack data: (ESP is 0x0351fae8)
+0x0351f968   0000803f 0000803f 00000000 00000000 00000000 00000000 00000000 00000000 
+0x0351f988   00000000 00000000 01000000 00000000 00000000 00000000 00000000 00187c40 
+0x0351f9a8   00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 
+0x0351f9c8   00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 
+0x0351f9e8   00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 
+0x0351fa08   00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 
+0x0351fa28   00000000 00000000 00000000 00000000 00000000 00000000 00000000 00000000 
+0x0351fa48   00000000 00000000 00000000 00000000 00000000 00000000 53585046 b4030000 
+0x0351fa68   07000000 00000000 40030000 00000000 00000000 00000000 00000000 00000000 
+0x0351fa88   00000000 00000000 050000c0 00000000 00000000 c48e4f00 02000000 00000000 
+0x0351faa8   00000000 e899c51c 00000000 70a6081e 23020000 08fb5103 e87b1501 ffffffff 
+0x0351fac8   23020000 2f546900 8274631b 00000000 0076aa1c 00000000 b98e4f00 00080000 
+0x0351fae8   50fdb503 24fc5103 0076aa1c 0008a803 28fb5103 9040f1f7 06189fa5 715e0000 
+0x0351fb08   94d44b02 a473f1f7 00000000 88fb5103 58fb5103 5b8d4f00 70fb5103 a1a81301 
+0x0351fb28   ffffffff 7cfb5103 4c814f00 c0baaa1c 00fc5103 c0baaa1c 24fc5103 249ecff7 
+0x0351fb48   70fb5103 68fb5103 02010000 7cfb5103 00e8bff7 76b2cd7b 00000000 7cfb5103 
+0x0351fb68   84fb5103 18814f00 d4fb5103 eea71301 ffffffff e0fb5103 d72dcd00 c0baaa1c 
+0x0351fb88   24fc5103 c0baaa1c 0076aa1c b0fb5103 c8fb5103 02010000 b8fc5103 00000000 
+0x0351fba8   6c7e4f00 c0baaa1c 24fc5103 c0baaa1c 24fc5103 0008a803 c0fb4000 d4fb5103 
+0x0351fbc8   e8fb5103 02ad4400 287e4f00 70fc5103 d4a71301 ffffffff f8fb5103 75c96f00 
+0x0351fbe8   c0baaa1c 24fc5103 8887c11c 24fc5103 3cfc5103 cbb36f00 c0baaa1c 0408a803 
+0x0351fc08   e007a803 28127300 24fc5103 e407a803 e007a803 d42aa928 8887c11c 03000000 
+0x0351fc28   f6597228 d1000000 01000000 e43a1d01 e45da703 7cfc5103 6dfc7200 e8d14a01 
+0x0351fc48   d794ee00 1a080100 00000000 e8d14a01 f0827b7e d02aa928 2c2ba928 502ba928 
+
+Instruction data: (EIP is 0x004f8ec4)
+0x004f8e44   4e 10 8b 01 57 ff 90 4c 01 00 00 ff 76 10 8d 4d 0c e8 f6 84 f0 ff 89 5d fc 8b ce e8 3c f6 ff ff 
+0x004f8e64   8b 7d 0c 57 8b ce e8 ab ed ff ff 57 8b ce e8 d7 c9 ff ff 83 4d fc ff 3b fb 0f 84 f0 01 00 00 8b 
+0x004f8e84   07 8b cf ff 50 08 e9 e4 01 00 00 8b 4e 10 3b cb 0f 84 d9 01 00 00 8b 01 bf 00 08 00 00 57 ff 90 
+0x004f8ea4   48 01 00 00 8b 4e 10 6a 01 88 45 0c 8b 01 57 ff 90 4c 01 00 00 8b 4e 10 8b 01 ff 50 2c ff 76 10 
+0x004f8ec4   8b 10 8b c8 ff 92 88 00 00 00 ff 75 0c 8b 4e 10 8b 01 57 ff 90 4c 01 00 00 ff 76 10 8d 4d 0c e8 
+0x004f8ee4   68 84 f0 ff c7 45 fc 01 00 00 00 e9 69 ff ff ff ff 76 10 8b ce e8 81 e2 ff ff e9 70 01 00 00 68 
+0x004f8f04   ac 64 1e 01 8d 4d cc e8 62 83 f0 ff 68 78 63 1e 01 8d 4d e0 c7 45 fc 02 00 00 00 e8 4e 83 f0 ff 
+0x004f8f24   c6 45 fc 03 c6 46 31 01 e8 bd 8e 9c 00 8b 10 53 6a 01 53 8d 4d cc 51 8d 4d e0 51 8b c8 ff 92 b4 

@@ -110,7 +110,7 @@
   <AnyUint32 key="optionShadows" type="0xeb61e4f7">3</AnyUint32>
   <AnyUint32 key="optionOpaqueUI" type="0xeb61e4f7">0</AnyUint32>
   <AnyUint32 key="optionReflection" type="0xeb61e4f7">1</AnyUint32>
-  <AnyUint32 key="optionCeiling" type="0xeb61e4f7">0</AnyUint32>
+  <AnyUint32 key="optionCeiling" type="0xeb61e4f7">1</AnyUint32>
   <AnyUint32 key="optionEffectsQuality" type="0xeb61e4f7">3</AnyUint32>
   <AnyUint32 key="optionLightingQuality" type="0xeb61e4f7">3</AnyUint32>
   <AnyUint32 key="optionSoundQuality" type="0xeb61e4f7">3</AnyUint32>

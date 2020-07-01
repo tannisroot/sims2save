@@ -1,11 +1,11 @@
-Log generated on 1/20/2020, 23:30
+Log generated on 7/1/2020, 21:57
 
 === Application info ===
 Name:            The Sims 2 EP9
 Version:         1.17.0.66
 Build:           ReleaseSRT
 === Machine info ===
-OS version:      Windows NT 6.1
+OS version:      Windows NT 6.2
 CPU:             5880Mhz, Name:AuthenticAMD, FPU:1, MMX:1
 Memory:          4096MB
 Free memory:     4096MB
@@ -156,7 +156,7 @@ uintProp   optionSnowOnGround 1
 uintProp   optionShadows 3
 uintProp   optionOpaqueUI 0
 uintProp   optionReflection 1
-uintProp   optionCeiling 0
+uintProp   optionCeiling 1
 uintProp   optionEffectsQuality 3
 uintProp   optionLightingQuality 3
 uintProp   optionSoundQuality 3
@@ -195,7 +195,7 @@ uintProp SnowOnGround 1 #default: 1
 uintProp Shadows 3 #default: 3
 uintProp OpaqueUI 0 #default: 0
 uintProp Reflection 1 #default: 1
-uintProp Ceiling 0 #default: 1
+uintProp Ceiling 1 #default: 1
 uintProp EffectsQuality 3 #default: 3
 uintProp LightingQuality 3 #default: 3
 uintProp SoundQuality 3 #default: 3
@@ -229,7 +229,7 @@ boolProp   heightMapShadows true
 boolProp   renderOpaqueUI false
 boolProp   reflectionWithExtraViewer true
 boolProp   nhoodWaterReflection true
-boolProp   includeCeilings false
+boolProp   includeCeilings true
 boolProp   useEffects true
 boolProp   enableOceanReflection true
 uintProp   maxParticlesTarget 10000
@@ -254,7 +254,7 @@ boolProp   animationFrameSampling false
 boolProp   livePIPDefault true
 boolProp   chooseCameraSpecialEventEnabled true
 uintProp   maxResWidth 1920
-uintProp   maxResHeight 1080
+uintProp   maxResHeight 1200
 uintProp   defaultResWidth 1024
 uintProp   defaultResHeight 768
 floatProp  centerTrackingDeadZoneMagnitude 30
@@ -268,7 +268,7 @@ uintProp   optionSnowOnGround 1
 uintProp   optionShadows 3
 uintProp   optionOpaqueUI 0
 uintProp   optionReflection 1
-uintProp   optionCeiling 0
+uintProp   optionCeiling 1
 uintProp   optionEffectsQuality 3
 uintProp   optionLightingQuality 3
 uintProp   optionSoundQuality 3
