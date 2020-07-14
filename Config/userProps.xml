@@ -11,7 +11,7 @@
   <AnyBoolean key="edgeScrolling" type="0xcba908e1">true</AnyBoolean>
   <AnyFloat32 key="horzedgescrollrate" type="0xabc78708">0.5</AnyFloat32>
   <AnyFloat32 key="vertedgescrollrate" type="0xabc78708">0.5</AnyFloat32>
-  <AnyString key="lastLoadedNeighborhood" type="0x0b8bea18">Pleasantview</AnyString>
+  <AnyString key="lastLoadedNeighborhood" type="0x0b8bea18">Twikkii Island</AnyString>
   <AnyBoolean key="interrupt" type="0xcba908e1">false</AnyBoolean>
   <AnyBoolean key="livePIP" type="0xcba908e1">true</AnyBoolean>
   <AnyBoolean key="lotInfoAdvancedMode" type="0xcba908e1">false</AnyBoolean>
@@ -110,7 +110,7 @@
   <AnyUint32 key="optionShadows" type="0xeb61e4f7">3</AnyUint32>
   <AnyUint32 key="optionOpaqueUI" type="0xeb61e4f7">0</AnyUint32>
   <AnyUint32 key="optionReflection" type="0xeb61e4f7">1</AnyUint32>
-  <AnyUint32 key="optionCeiling" type="0xeb61e4f7">0</AnyUint32>
+  <AnyUint32 key="optionCeiling" type="0xeb61e4f7">1</AnyUint32>
   <AnyUint32 key="optionEffectsQuality" type="0xeb61e4f7">3</AnyUint32>
   <AnyUint32 key="optionLightingQuality" type="0xeb61e4f7">3</AnyUint32>
   <AnyUint32 key="optionSoundQuality" type="0xeb61e4f7">3</AnyUint32>

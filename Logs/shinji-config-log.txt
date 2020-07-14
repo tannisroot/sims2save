@@ -1,4 +1,4 @@
-Log generated on 7/3/2020, 00:45
+Log generated on 7/14/2020, 10:53
 
 === Application info ===
 Name:            The Sims 2 EP9
@@ -54,7 +54,7 @@ boolProp   edgeScrolling true
 floatProp  horzedgescrollrate 0.5
 floatProp  vertedgescrollrate 0.5
 uintProp   effectPriorityLevel 3
-stringProp lastLoadedNeighborhood Pleasantview
+stringProp lastLoadedNeighborhood Twikkii Island
 boolProp   freeWill true
 floatProp  geomBoneInfluenceThreshold 0.01
 boolProp   geomCheckGeomDataIntegrity false
@@ -151,7 +151,7 @@ stringProp activeDeviceDisplayMode 1920x1080x32x75
 boolProp   activeDeviceUseSoftwareRasterizer false
 uintProp   optionMaterialDetail 3
 uintProp   optionObjectDetail 3
-uintProp   optionObjectHiding 0
+uintProp   optionObjectHiding 1
 uintProp   optionSnowOnGround 1
 uintProp   optionShadows 3
 uintProp   optionOpaqueUI 0
@@ -190,7 +190,7 @@ Options
 -------
 uintProp MaterialDetail 3 #default: 3
 uintProp ObjectDetail 3 #default: 3
-uintProp ObjectHiding 0 #default: 0
+uintProp ObjectHiding 1 #default: 0
 uintProp SnowOnGround 1 #default: 1
 uintProp Shadows 3 #default: 3
 uintProp OpaqueUI 0 #default: 0
@@ -220,7 +220,7 @@ uintProp   imageDataSizeReductionOnLoad 0
 boolProp   reduceBoneWeights false
 boolProp   useLODs false
 uintProp   lodOverride 0
-uintProp   renderInsideVisibleObjects 0
+uintProp   renderInsideVisibleObjects 1
 boolProp   showSnowOnGround true
 boolProp   simShadows true
 boolProp   objectShadows true
@@ -263,7 +263,7 @@ boolProp   enableNeighborhoodOccupantsInLot true
 uintProp   lotSkirtSizeIncrease 9
 uintProp   optionMaterialDetail 3
 uintProp   optionObjectDetail 3
-uintProp   optionObjectHiding 0
+uintProp   optionObjectHiding 1
 uintProp   optionSnowOnGround 1
 uintProp   optionShadows 3
 uintProp   optionOpaqueUI 0
