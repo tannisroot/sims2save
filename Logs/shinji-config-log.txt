@@ -1,4 +1,4 @@
-Log generated on 7/14/2020, 10:53
+Log generated on 6/18/2021, 12:21
 
 === Application info ===
 Name:            The Sims 2 EP9
@@ -6,7 +6,7 @@ Version:         1.17.0.66
 Build:           ReleaseSRT
 === Machine info ===
 OS version:      Windows NT 6.2
-CPU:             5880Mhz, Name:AuthenticAMD, FPU:1, MMX:1
+CPU:             6766.199707Mhz, Name:AuthenticAMD, FPU:1, MMX:1
 Memory:          4096MB
 Free memory:     4096MB
 User:            alex
@@ -54,7 +54,7 @@ boolProp   edgeScrolling true
 floatProp  horzedgescrollrate 0.5
 floatProp  vertedgescrollrate 0.5
 uintProp   effectPriorityLevel 3
-stringProp lastLoadedNeighborhood Twikkii Island
+stringProp lastLoadedNeighborhood Pleasantview
 boolProp   freeWill true
 floatProp  geomBoneInfluenceThreshold 0.01
 boolProp   geomCheckGeomDataIntegrity false
@@ -147,7 +147,7 @@ boolProp   force12HrTime false
 boolProp   enableOceanReflection false
 boolProp   includeCeilings false
 boolProp   quarterTilePlacementEnabled false
-stringProp activeDeviceDisplayMode 1920x1080x32x75
+stringProp activeDeviceDisplayMode 1920x1080x32x60
 boolProp   activeDeviceUseSoftwareRasterizer false
 uintProp   optionMaterialDetail 3
 uintProp   optionObjectDetail 3

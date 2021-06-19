@@ -11,7 +11,7 @@
   <AnyBoolean key="edgeScrolling" type="0xcba908e1">true</AnyBoolean>
   <AnyFloat32 key="horzedgescrollrate" type="0xabc78708">0.5</AnyFloat32>
   <AnyFloat32 key="vertedgescrollrate" type="0xabc78708">0.5</AnyFloat32>
-  <AnyString key="lastLoadedNeighborhood" type="0x0b8bea18">Twikkii Island</AnyString>
+  <AnyString key="lastLoadedNeighborhood" type="0x0b8bea18">Pleasantview</AnyString>
   <AnyBoolean key="interrupt" type="0xcba908e1">false</AnyBoolean>
   <AnyBoolean key="livePIP" type="0xcba908e1">true</AnyBoolean>
   <AnyBoolean key="lotInfoAdvancedMode" type="0xcba908e1">false</AnyBoolean>
@@ -39,6 +39,7 @@
   <AnyStringSet key="visitedNeighborhoods" type="0xad9a861e">
     <Element>G001_Downtown001</Element>
     <Element>G001_Suburb007</Element>
+    <Element>G001_Vacation002</Element>
     <Element>G001_Neighborhood</Element>
     <Element>N001_Neighborhood</Element>
     <Element>G001_University001</Element>
